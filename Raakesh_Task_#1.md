@@ -272,6 +272,3 @@ area
 business_count commercial_category estimated_footfall
 
 
-## Coimbatore Urban Intelligence — Data Analysis & Tableau Dashboard
-
-## Deadline : 14 Aug 2026 Demo : 14 Aug 2026
