@@ -1,0 +1,1842 @@
+[
+  {
+    "id": 244513191,
+    "type": "node",
+    "category": "schools",
+    "name": "Sri Ramakrishna Engineering College, vatamalaipalayam, coimbatore",
+    "lat": 11.101632,
+    "lon": 76.965305
+  },
+  {
+    "id": 247177826,
+    "type": "node",
+    "category": "schools",
+    "name": "SREC BSC block",
+    "lat": 11.100879,
+    "lon": 76.964274
+  },
+  {
+    "id": 247177878,
+    "type": "node",
+    "category": "schools",
+    "name": "SREC EEEE,ECE Lab",
+    "lat": 11.100585,
+    "lon": 76.96613
+  },
+  {
+    "id": 247177880,
+    "type": "node",
+    "category": "schools",
+    "name": "Sri Ramakrishna Engineering college Main Block",
+    "lat": 11.102219,
+    "lon": 76.965705
+  },
+  {
+    "id": 282874142,
+    "type": "node",
+    "category": "schools",
+    "name": "Sri Ramakrishna Arts and Science College for Womens",
+    "lat": 11.022396,
+    "lon": 76.97805
+  },
+  {
+    "id": 282875093,
+    "type": "node",
+    "category": "schools",
+    "name": "SNR College of Arts and Science",
+    "lat": 11.021974,
+    "lon": 76.987711
+  },
+  {
+    "id": 282875098,
+    "type": "node",
+    "category": "schools",
+    "name": "Sri Ramakrishna Dental College",
+    "lat": 11.021304,
+    "lon": 76.988356
+  },
+  {
+    "id": 295987842,
+    "type": "node",
+    "category": "schools",
+    "name": "Government Women's Polytechnic College",
+    "lat": 11.015948,
+    "lon": 76.975865
+  },
+  {
+    "id": 321420715,
+    "type": "node",
+    "category": "schools",
+    "name": "United Physically Handicapped School",
+    "lat": 11.104742,
+    "lon": 77.024248
+  },
+  {
+    "id": 321420716,
+    "type": "node",
+    "category": "schools",
+    "name": "Vimal Jothi Convent School",
+    "lat": 11.090002,
+    "lon": 77.009052
+  },
+  {
+    "id": 330069938,
+    "type": "node",
+    "category": "schools",
+    "name": "Corporation Boys High School",
+    "lat": 11.004984,
+    "lon": 76.947418
+  },
+  {
+    "id": 330069956,
+    "type": "node",
+    "category": "schools",
+    "name": "Corporaton School for Deaf",
+    "lat": 11.005605,
+    "lon": 76.949405
+  },
+  {
+    "id": 330069969,
+    "type": "node",
+    "category": "schools",
+    "name": "SRP Ponnuswamy Chettiar Sundrammal Vidhyalaya Matric School",
+    "lat": 11.013146,
+    "lon": 76.946844
+  },
+  {
+    "id": 330069972,
+    "type": "node",
+    "category": "schools",
+    "name": "Vidya Vriksha Play School",
+    "lat": 11.01068,
+    "lon": 76.948604
+  },
+  {
+    "id": 330069974,
+    "type": "node",
+    "category": "schools",
+    "name": "Bishop Ubagarm's Primary School",
+    "lat": 11.013048,
+    "lon": 76.942949
+  },
+  {
+    "id": 330070078,
+    "type": "node",
+    "category": "schools",
+    "name": "Kattur Municipal Elementary School",
+    "lat": 11.007779,
+    "lon": 76.964117
+  },
+  {
+    "id": 337578514,
+    "type": "node",
+    "category": "schools",
+    "name": "Stanes Higher Secondary School",
+    "lat": 11.006359,
+    "lon": 76.972488
+  },
+  {
+    "id": 343436818,
+    "type": "node",
+    "category": "schools",
+    "name": "Kikani Higher Secondary School",
+    "lat": 11.011578,
+    "lon": 76.957943
+  },
+  {
+    "id": 343438043,
+    "type": "node",
+    "category": "schools",
+    "name": "Coporation Girls Higher Secondary School",
+    "lat": 11.0137,
+    "lon": 76.960838
+  },
+  {
+    "id": 343438055,
+    "type": "node",
+    "category": "schools",
+    "name": "Corporation Elementary School",
+    "lat": 11.013684,
+    "lon": 76.961631
+  },
+  {
+    "id": 346037148,
+    "type": "node",
+    "category": "schools",
+    "name": "RS Puram Corporation Girls High School",
+    "lat": 11.010299,
+    "lon": 76.946957
+  },
+  {
+    "id": 729616609,
+    "type": "node",
+    "category": "schools",
+    "name": "CMS Matriculation Higher Secondary School",
+    "lat": 11.040878,
+    "lon": 76.981697
+  },
+  {
+    "id": 803389784,
+    "type": "node",
+    "category": "schools",
+    "name": "Mani Higher Secondary School",
+    "lat": 11.013892,
+    "lon": 76.982062
+  },
+  {
+    "id": 803667690,
+    "type": "node",
+    "category": "schools",
+    "name": "GTTI",
+    "lat": 11.006819,
+    "lon": 76.977852
+  },
+  {
+    "id": 1202171362,
+    "type": "node",
+    "category": "schools",
+    "name": "Goethe Institute",
+    "lat": 11.006929,
+    "lon": 76.978
+  },
+  {
+    "id": 1464278758,
+    "type": "node",
+    "category": "schools",
+    "name": "V V Vani Vidhyalaya",
+    "lat": 11.025766,
+    "lon": 76.944431
+  },
+  {
+    "id": 1464278820,
+    "type": "node",
+    "category": "schools",
+    "name": "Ramalinga Chettiar School (Govt Aided)",
+    "lat": 11.023457,
+    "lon": 76.948273
+  },
+  {
+    "id": 1464278890,
+    "type": "node",
+    "category": "schools",
+    "name": "Angappa Hr. Sec. School (CBSE)",
+    "lat": 11.023562,
+    "lon": 76.946325
+  },
+  {
+    "id": 1464770604,
+    "type": "node",
+    "category": "schools",
+    "name": "Amrit Special needs school",
+    "lat": 11.029821,
+    "lon": 76.950316
+  },
+  {
+    "id": 1469107407,
+    "type": "node",
+    "category": "schools",
+    "name": "Kumaraguru College of Technology",
+    "lat": 11.075597,
+    "lon": 76.988928
+  },
+  {
+    "id": 1469109274,
+    "type": "node",
+    "category": "schools",
+    "name": "KG College of Arts and Science",
+    "lat": 11.083599,
+    "lon": 76.997456
+  },
+  {
+    "id": 1469149959,
+    "type": "node",
+    "category": "schools",
+    "name": "SeaSkills Maritime Academy",
+    "lat": 11.082979,
+    "lon": 76.998578
+  },
+  {
+    "id": 1470545645,
+    "type": "node",
+    "category": "schools",
+    "name": "Amrita Vidhyalayam (Matriculation)",
+    "lat": 11.050059,
+    "lon": 76.952884
+  },
+  {
+    "id": 1470545671,
+    "type": "node",
+    "category": "schools",
+    "name": "Ramasamy Matriculation School",
+    "lat": 11.048063,
+    "lon": 76.946326
+  },
+  {
+    "id": 1470738327,
+    "type": "node",
+    "category": "schools",
+    "name": "Kongunadu arts and science college",
+    "lat": 11.059986,
+    "lon": 76.948396
+  },
+  {
+    "id": 1470738328,
+    "type": "node",
+    "category": "schools",
+    "name": "Yuvabharathi CBSE School",
+    "lat": 11.066106,
+    "lon": 76.916999
+  },
+  {
+    "id": 1470949015,
+    "type": "node",
+    "category": "schools",
+    "name": "Swami Shivanandha High School",
+    "lat": 11.148109,
+    "lon": 76.943456
+  },
+  {
+    "id": 1471862691,
+    "type": "node",
+    "category": "schools",
+    "name": "Avinashilingam Vocational Training Institute",
+    "lat": 11.022538,
+    "lon": 76.951503
+  },
+  {
+    "id": 1472189593,
+    "type": "node",
+    "category": "schools",
+    "name": "Ramakrishna Institute of Pharamedical Sciences",
+    "lat": 11.024405,
+    "lon": 76.976773
+  },
+  {
+    "id": 1472189838,
+    "type": "node",
+    "category": "schools",
+    "name": "College of Pharamacy",
+    "lat": 11.024397,
+    "lon": 76.97622
+  },
+  {
+    "id": 1472205012,
+    "type": "node",
+    "category": "schools",
+    "name": "Suburban Higher Secondary School",
+    "lat": 11.012928,
+    "lon": 76.960942
+  },
+  {
+    "id": 1472205751,
+    "type": "node",
+    "category": "schools",
+    "name": "North Coimbatore Corporation Higher Secondary School",
+    "lat": 11.015406,
+    "lon": 76.958268
+  },
+  {
+    "id": 1474348707,
+    "type": "node",
+    "category": "schools",
+    "name": "Saravanampatty Elementary School",
+    "lat": 11.076348,
+    "lon": 77.001713
+  },
+  {
+    "id": 1474490995,
+    "type": "node",
+    "category": "schools",
+    "name": "Presentation convent",
+    "lat": 10.994551,
+    "lon": 76.964861
+  },
+  {
+    "id": 1474491024,
+    "type": "node",
+    "category": "schools",
+    "name": "corporation Girls High school",
+    "lat": 10.995542,
+    "lon": 76.960108
+  },
+  {
+    "id": 1474491029,
+    "type": "node",
+    "category": "schools",
+    "name": "St.Michaels School",
+    "lat": 10.994588,
+    "lon": 76.965838
+  },
+  {
+    "id": 1474518415,
+    "type": "node",
+    "category": "schools",
+    "name": "Trinity Boys High school",
+    "lat": 10.997625,
+    "lon": 76.997141
+  },
+  {
+    "id": 1474518438,
+    "type": "node",
+    "category": "schools",
+    "name": "Corporation girls high school",
+    "lat": 11.009196,
+    "lon": 76.990573
+  },
+  {
+    "id": 1474726858,
+    "type": "node",
+    "category": "schools",
+    "name": "St.Fathima's School",
+    "lat": 10.994414,
+    "lon": 76.963994
+  },
+  {
+    "id": 1474803274,
+    "type": "node",
+    "category": "schools",
+    "name": "VASAVI VIDYALAYA",
+    "lat": 10.992556,
+    "lon": 76.957843
+  },
+  {
+    "id": 1474872833,
+    "type": "node",
+    "category": "schools",
+    "name": "Bishop Ambrose College",
+    "lat": 10.995589,
+    "lon": 76.984476
+  },
+  {
+    "id": 1771099491,
+    "type": "node",
+    "category": "schools",
+    "name": "Kaumaram Sushila International Residential School",
+    "lat": 11.066428,
+    "lon": 76.988429
+  },
+  {
+    "id": 2017661235,
+    "type": "node",
+    "category": "schools",
+    "name": "Krishnaswamy Nagar - Ganga Nagar Matriculation School",
+    "lat": 11.001693,
+    "lon": 76.998654
+  },
+  {
+    "id": 2465109132,
+    "type": "node",
+    "category": "schools",
+    "name": "Vivekananda Institute Of Management Studies",
+    "lat": 11.13432,
+    "lon": 77.044678
+  },
+  {
+    "id": 2537780271,
+    "type": "node",
+    "category": "schools",
+    "name": "Kaumaram Prashanthi Academy",
+    "lat": 11.066346,
+    "lon": 76.990257
+  },
+  {
+    "id": 3891556867,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.004262,
+    "lon": 77.045574
+  },
+  {
+    "id": 4288509871,
+    "type": "node",
+    "category": "schools",
+    "name": "TNAU Play Ground",
+    "lat": 11.010372,
+    "lon": 76.934315
+  },
+  {
+    "id": 4445057790,
+    "type": "node",
+    "category": "schools",
+    "name": "ece department",
+    "lat": 11.017201,
+    "lon": 76.935184
+  },
+  {
+    "id": 4594365762,
+    "type": "node",
+    "category": "schools",
+    "name": "Annai Velankanni Matriculation Higher Secondary School",
+    "lat": 11.009324,
+    "lon": 77.009605
+  },
+  {
+    "id": 4739790083,
+    "type": "node",
+    "category": "schools",
+    "name": "Bharathiyar University Complex",
+    "lat": 11.038113,
+    "lon": 76.879052
+  },
+  {
+    "id": 6130759969,
+    "type": "node",
+    "category": "schools",
+    "name": "Anna University Regional Campus Coimbatore",
+    "lat": 11.042072,
+    "lon": 76.886032
+  },
+  {
+    "id": 6460431436,
+    "type": "node",
+    "category": "schools",
+    "name": "Angappa Matric School",
+    "lat": 11.039329,
+    "lon": 76.933568
+  },
+  {
+    "id": 6549807511,
+    "type": "node",
+    "category": "schools",
+    "name": "KV Matriculation Higher Secondary School",
+    "lat": 11.105141,
+    "lon": 77.026711
+  },
+  {
+    "id": 6549807512,
+    "type": "node",
+    "category": "schools",
+    "name": "KV Institute of Management and Information Studies",
+    "lat": 11.105079,
+    "lon": 77.027658
+  },
+  {
+    "id": 6675920337,
+    "type": "node",
+    "category": "schools",
+    "name": "coimbatore corporation thudiyalur middle school (east)",
+    "lat": 11.082246,
+    "lon": 76.946288
+  },
+  {
+    "id": 7621881239,
+    "type": "node",
+    "category": "schools",
+    "name": "Adhira International School",
+    "lat": 11.066526,
+    "lon": 76.924725
+  },
+  {
+    "id": 8156850919,
+    "type": "node",
+    "category": "schools",
+    "name": "Government Primary School",
+    "lat": 11.024334,
+    "lon": 76.900854
+  },
+  {
+    "id": 10709278216,
+    "type": "node",
+    "category": "schools",
+    "name": "The Ideal Mount Litera Zee school",
+    "lat": 11.097414,
+    "lon": 77.044043
+  },
+  {
+    "id": 10709278218,
+    "type": "node",
+    "category": "schools",
+    "name": "Reeds World School",
+    "lat": 11.072124,
+    "lon": 77.055461
+  },
+  {
+    "id": 10761094382,
+    "type": "node",
+    "category": "schools",
+    "name": "Government school",
+    "lat": 11.055444,
+    "lon": 77.065393
+  },
+  {
+    "id": 10895934519,
+    "type": "node",
+    "category": "schools",
+    "name": "GOVERNMENT MEDICAL COLLEGE",
+    "lat": 11.009467,
+    "lon": 77.020968
+  },
+  {
+    "id": 11367662872,
+    "type": "node",
+    "category": "schools",
+    "name": "VOC Hostel",
+    "lat": 11.033345,
+    "lon": 77.035713
+  },
+  {
+    "id": 11367692369,
+    "type": "node",
+    "category": "schools",
+    "name": "PSG College of Arts and Sciences",
+    "lat": 11.034713,
+    "lon": 77.033804
+  },
+  {
+    "id": 11455988074,
+    "type": "node",
+    "category": "schools",
+    "name": "PG & Research Department of Public Administration",
+    "lat": 10.998496,
+    "lon": 76.973709
+  },
+  {
+    "id": 11458804878,
+    "type": "node",
+    "category": "schools",
+    "name": "Government Arts College (Autonomous), Coimbatore-18",
+    "lat": 10.998499,
+    "lon": 76.972167
+  },
+  {
+    "id": 12092006370,
+    "type": "node",
+    "category": "schools",
+    "name": "Sri Ramakrishna College of Arts & Science",
+    "lat": 11.022171,
+    "lon": 76.98703
+  },
+  {
+    "id": 12092006371,
+    "type": "node",
+    "category": "schools",
+    "name": "Sri Ramakrishna Matric Higher Secondary School",
+    "lat": 11.023175,
+    "lon": 76.984723
+  },
+  {
+    "id": 12124983635,
+    "type": "node",
+    "category": "schools",
+    "name": "St. Mary's Primary School",
+    "lat": 11.021865,
+    "lon": 76.967273
+  },
+  {
+    "id": 12124983636,
+    "type": "node",
+    "category": "schools",
+    "name": "St. Mar's High School",
+    "lat": 11.022199,
+    "lon": 76.967432
+  },
+  {
+    "id": 12124983637,
+    "type": "node",
+    "category": "schools",
+    "name": "Brindisi Matric. Ir. Sec. School",
+    "lat": 11.022611,
+    "lon": 76.967283
+  },
+  {
+    "id": 12285239997,
+    "type": "node",
+    "category": "schools",
+    "name": "Star kids pre school",
+    "lat": 11.134662,
+    "lon": 77.039048
+  },
+  {
+    "id": 12285349814,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.013169,
+    "lon": 76.942893
+  },
+  {
+    "id": 12285349821,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.016962,
+    "lon": 76.92428
+  },
+  {
+    "id": 12285349832,
+    "type": "node",
+    "category": "schools",
+    "name": "Vannamalar Institute Of Forest Genetics & Tree Breeding",
+    "lat": 11.010034,
+    "lon": 76.944404
+  },
+  {
+    "id": 12564723112,
+    "type": "node",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 10.99664,
+    "lon": 77.062982
+  },
+  {
+    "id": 13250151164,
+    "type": "node",
+    "category": "schools",
+    "name": "National Model Senior Secondary School",
+    "lat": 11.017414,
+    "lon": 77.013162
+  },
+  {
+    "id": 13250169253,
+    "type": "node",
+    "category": "schools",
+    "name": "GRG School of Management Studies",
+    "lat": 11.02818,
+    "lon": 77.006498
+  },
+  {
+    "id": 13250204803,
+    "type": "node",
+    "category": "schools",
+    "name": "C S Academy Trichy Road Campus",
+    "lat": 10.999042,
+    "lon": 77.006924
+  },
+  {
+    "id": 13284389435,
+    "type": "node",
+    "category": "schools",
+    "name": "Prodigy International Montessori School",
+    "lat": 11.0201,
+    "lon": 77.016919
+  },
+  {
+    "id": 13644789151,
+    "type": "node",
+    "category": "schools",
+    "name": "College Ground",
+    "lat": 11.101518,
+    "lon": 77.028043
+  },
+  {
+    "id": 13645076002,
+    "type": "node",
+    "category": "schools",
+    "name": "Dobbs public school",
+    "lat": 11.094831,
+    "lon": 77.009988
+  },
+  {
+    "id": 13645076101,
+    "type": "node",
+    "category": "schools",
+    "name": "Government School",
+    "lat": 11.094957,
+    "lon": 77.011749
+  },
+  {
+    "id": 13657704582,
+    "type": "node",
+    "category": "schools",
+    "name": "Agricultural University",
+    "lat": 11.015116,
+    "lon": 76.939613
+  },
+  {
+    "id": 13657712991,
+    "type": "node",
+    "category": "schools",
+    "name": "CENTRE OF EXCELLENCE IN BIOTECHNOLOGY - TNAU",
+    "lat": 11.015993,
+    "lon": 76.938681
+  },
+  {
+    "id": 13660608623,
+    "type": "node",
+    "category": "schools",
+    "name": "Marudhamalai Subramaniya swami Devasthanam high school",
+    "lat": 11.025015,
+    "lon": 76.907863
+  },
+  {
+    "id": 66102291,
+    "type": "way",
+    "category": "schools",
+    "name": "Government Women's Polytechnic College",
+    "lat": 11.015523,
+    "lon": 76.975163
+  },
+  {
+    "id": 66102343,
+    "type": "way",
+    "category": "schools",
+    "name": "Tamilnadu Forest Academy",
+    "lat": 11.016766,
+    "lon": 76.946606
+  },
+  {
+    "id": 66117845,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.004951,
+    "lon": 76.948019
+  },
+  {
+    "id": 66293772,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.00596,
+    "lon": 76.973437
+  },
+  {
+    "id": 128979860,
+    "type": "way",
+    "category": "schools",
+    "name": "Government Polytechnic",
+    "lat": 11.030087,
+    "lon": 77.030852
+  },
+  {
+    "id": 128979862,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG College of Arts and Science",
+    "lat": 11.032847,
+    "lon": 77.034909
+  },
+  {
+    "id": 128980433,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG College of Technology",
+    "lat": 11.024807,
+    "lon": 77.002919
+  },
+  {
+    "id": 132995598,
+    "type": "way",
+    "category": "schools",
+    "name": "Bharathi Matri Hr. Sec. School",
+    "lat": 11.023241,
+    "lon": 76.936835
+  },
+  {
+    "id": 133072620,
+    "type": "way",
+    "category": "schools",
+    "name": "Govt. College of Technology",
+    "lat": 11.019616,
+    "lon": 76.936541
+  },
+  {
+    "id": 133072629,
+    "type": "way",
+    "category": "schools",
+    "name": "Avila Convent Matriculation Higher Secondary School",
+    "lat": 11.025798,
+    "lon": 76.933577
+  },
+  {
+    "id": 133072630,
+    "type": "way",
+    "category": "schools",
+    "name": "Institute of Forest Genetics & Tree Breeding (IFGTB)",
+    "lat": 11.017636,
+    "lon": 76.951472
+  },
+  {
+    "id": 133360776,
+    "type": "way",
+    "category": "schools",
+    "name": "Marudhamalai Subramaniya Swamy Devasthana Higher Secondary School",
+    "lat": 11.024776,
+    "lon": 76.907627
+  },
+  {
+    "id": 133360781,
+    "type": "way",
+    "category": "schools",
+    "name": "T.A. Ramalingam Chettiar Higher Secondary School",
+    "lat": 11.02388,
+    "lon": 76.948577
+  },
+  {
+    "id": 133360789,
+    "type": "way",
+    "category": "schools",
+    "name": "Nehru maha vidhyalaya",
+    "lat": 11.006941,
+    "lon": 76.944074
+  },
+  {
+    "id": 133368414,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.012012,
+    "lon": 76.957853
+  },
+  {
+    "id": 133585584,
+    "type": "way",
+    "category": "schools",
+    "name": "G. D. Matriculation Higher Secondary School",
+    "lat": 11.00003,
+    "lon": 76.965528
+  },
+  {
+    "id": 133585585,
+    "type": "way",
+    "category": "schools",
+    "name": "Niramla College for Women",
+    "lat": 11.000042,
+    "lon": 76.983704
+  },
+  {
+    "id": 133585670,
+    "type": "way",
+    "category": "schools",
+    "name": "Bishop Appasamy College",
+    "lat": 11.004109,
+    "lon": 76.976716
+  },
+  {
+    "id": 133586708,
+    "type": "way",
+    "category": "schools",
+    "name": "Carmel Garden Matriculation Higher Secondary School",
+    "lat": 10.999367,
+    "lon": 76.98762
+  },
+  {
+    "id": 136743589,
+    "type": "way",
+    "category": "schools",
+    "name": "Kovai Linux Centre",
+    "lat": 11.015627,
+    "lon": 76.9655
+  },
+  {
+    "id": 150446612,
+    "type": "way",
+    "category": "schools",
+    "name": "Ramalingam Primary School",
+    "lat": 11.025605,
+    "lon": 76.951032
+  },
+  {
+    "id": 171859675,
+    "type": "way",
+    "category": "schools",
+    "name": "KSIRS",
+    "lat": 11.066549,
+    "lon": 76.988543
+  },
+  {
+    "id": 172004025,
+    "type": "way",
+    "category": "schools",
+    "name": "KGISL IIM",
+    "lat": 11.083434,
+    "lon": 76.99715
+  },
+  {
+    "id": 172004028,
+    "type": "way",
+    "category": "schools",
+    "name": "KGISL Institute of Technology",
+    "lat": 11.084902,
+    "lon": 76.99818
+  },
+  {
+    "id": 172010116,
+    "type": "way",
+    "category": "schools",
+    "name": "Maharishi Vidhya Mandir",
+    "lat": 11.08143,
+    "lon": 76.981364
+  },
+  {
+    "id": 172011146,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.066293,
+    "lon": 76.985279
+  },
+  {
+    "id": 172011150,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.065768,
+    "lon": 76.98544
+  },
+  {
+    "id": 172011151,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.065831,
+    "lon": 76.985876
+  },
+  {
+    "id": 172011154,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.066326,
+    "lon": 76.985914
+  },
+  {
+    "id": 172011156,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.066335,
+    "lon": 76.985695
+  },
+  {
+    "id": 172099501,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 10.998038,
+    "lon": 76.971914
+  },
+  {
+    "id": 191213095,
+    "type": "way",
+    "category": "schools",
+    "name": "Jayendra Saraswathi College",
+    "lat": 11.007711,
+    "lon": 77.043777
+  },
+  {
+    "id": 194879734,
+    "type": "way",
+    "category": "schools",
+    "name": "Ruby Matriculation School",
+    "lat": 11.082418,
+    "lon": 77.001738
+  },
+  {
+    "id": 196061752,
+    "type": "way",
+    "category": "schools",
+    "name": "Info Institute of Engineering",
+    "lat": 11.12721,
+    "lon": 77.039292
+  },
+  {
+    "id": 196841575,
+    "type": "way",
+    "category": "schools",
+    "name": "Chandrakanthi Public School",
+    "lat": 11.044965,
+    "lon": 77.028957
+  },
+  {
+    "id": 196841577,
+    "type": "way",
+    "category": "schools",
+    "name": "Chandra Matriculation Higher Secondary School",
+    "lat": 11.044117,
+    "lon": 77.029729
+  },
+  {
+    "id": 230401642,
+    "type": "way",
+    "category": "schools",
+    "name": "Sankara Polytechnic",
+    "lat": 11.085644,
+    "lon": 76.986104
+  },
+  {
+    "id": 230932034,
+    "type": "way",
+    "category": "schools",
+    "name": "Hindustan school of Management",
+    "lat": 11.0126,
+    "lon": 76.993043
+  },
+  {
+    "id": 238707846,
+    "type": "way",
+    "category": "schools",
+    "name": "Corporation School",
+    "lat": 11.031483,
+    "lon": 76.944998
+  },
+  {
+    "id": 238707848,
+    "type": "way",
+    "category": "schools",
+    "name": "Corporation School",
+    "lat": 11.031222,
+    "lon": 76.94449
+  },
+  {
+    "id": 239032820,
+    "type": "way",
+    "category": "schools",
+    "name": "St. Thomas Higher Secondary School",
+    "lat": 11.035195,
+    "lon": 76.944727
+  },
+  {
+    "id": 254810517,
+    "type": "way",
+    "category": "schools",
+    "name": "Jaycee Higher Secondary School",
+    "lat": 11.037325,
+    "lon": 76.914008
+  },
+  {
+    "id": 262854343,
+    "type": "way",
+    "category": "schools",
+    "name": "Manchester International School",
+    "lat": 11.084509,
+    "lon": 76.962049
+  },
+  {
+    "id": 264275650,
+    "type": "way",
+    "category": "schools",
+    "name": "National Model Matriculation school",
+    "lat": 11.017381,
+    "lon": 77.01192
+  },
+  {
+    "id": 293066627,
+    "type": "way",
+    "category": "schools",
+    "name": "Devanga High School",
+    "lat": 11.008033,
+    "lon": 76.959083
+  },
+  {
+    "id": 357082017,
+    "type": "way",
+    "category": "schools",
+    "name": "South India Textile Research Association - SITRA",
+    "lat": 11.039648,
+    "lon": 77.035549
+  },
+  {
+    "id": 361362353,
+    "type": "way",
+    "category": "schools",
+    "name": "Vivekam CBSE School",
+    "lat": 11.079197,
+    "lon": 76.995401
+  },
+  {
+    "id": 366991115,
+    "type": "way",
+    "category": "schools",
+    "name": "Industrial Technical Institute (ITI)",
+    "lat": 11.053971,
+    "lon": 76.943876
+  },
+  {
+    "id": 373410449,
+    "type": "way",
+    "category": "schools",
+    "name": "CSI(Church of South India) Boys Higher Secondary School",
+    "lat": 10.996898,
+    "lon": 76.964816
+  },
+  {
+    "id": 374784185,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 10.996211,
+    "lon": 76.962672
+  },
+  {
+    "id": 374788422,
+    "type": "way",
+    "category": "schools",
+    "name": "Saraswati Ramachandran Higher Secondary School",
+    "lat": 10.953878,
+    "lon": 76.961711
+  },
+  {
+    "id": 377992179,
+    "type": "way",
+    "category": "schools",
+    "name": "Govt.Womens Arts College",
+    "lat": 10.993295,
+    "lon": 76.963015
+  },
+  {
+    "id": 380074155,
+    "type": "way",
+    "category": "schools",
+    "name": "Government Law College, Coimbatore",
+    "lat": 11.042662,
+    "lon": 76.86772
+  },
+  {
+    "id": 380074156,
+    "type": "way",
+    "category": "schools",
+    "name": "Law College Hostel",
+    "lat": 11.043862,
+    "lon": 76.86832
+  },
+  {
+    "id": 380080898,
+    "type": "way",
+    "category": "schools",
+    "name": "Chavara Vidya Bhavan",
+    "lat": 11.04287,
+    "lon": 76.892315
+  },
+  {
+    "id": 382602878,
+    "type": "way",
+    "category": "schools",
+    "name": "Alvernia Higher Secondary Matriculation School",
+    "lat": 10.998181,
+    "lon": 77.002755
+  },
+  {
+    "id": 382603284,
+    "type": "way",
+    "category": "schools",
+    "name": "Corporation Boys High School",
+    "lat": 10.996434,
+    "lon": 76.994104
+  },
+  {
+    "id": 382609758,
+    "type": "way",
+    "category": "schools",
+    "name": "Balaji Driving School",
+    "lat": 10.984722,
+    "lon": 77.002241
+  },
+  {
+    "id": 382610267,
+    "type": "way",
+    "category": "schools",
+    "name": "BVM Global School",
+    "lat": 10.989634,
+    "lon": 77.009293
+  },
+  {
+    "id": 382611017,
+    "type": "way",
+    "category": "schools",
+    "name": "Nirmal Matha Matric Higher Secondary School",
+    "lat": 10.969048,
+    "lon": 77.002981
+  },
+  {
+    "id": 414348755,
+    "type": "way",
+    "category": "schools",
+    "name": "Kadri Mills Higher Secondary School",
+    "lat": 11.005818,
+    "lon": 77.066412
+  },
+  {
+    "id": 414348756,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.005417,
+    "lon": 77.045681
+  },
+  {
+    "id": 442527694,
+    "type": "way",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya Main",
+    "lat": 11.008228,
+    "lon": 76.998124
+  },
+  {
+    "id": 442527695,
+    "type": "way",
+    "category": "schools",
+    "name": "Kendriya Vidyalaya",
+    "lat": 11.009616,
+    "lon": 76.998498
+  },
+  {
+    "id": 442528849,
+    "type": "way",
+    "category": "schools",
+    "name": "ALG Matriculation School",
+    "lat": 11.005777,
+    "lon": 76.989424
+  },
+  {
+    "id": 497331703,
+    "type": "way",
+    "category": "schools",
+    "name": "SMS College of Arts & Science",
+    "lat": 10.981926,
+    "lon": 76.922549
+  },
+  {
+    "id": 501125927,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG Institute of Medical sciences & research",
+    "lat": 11.018779,
+    "lon": 77.008891
+  },
+  {
+    "id": 573256180,
+    "type": "way",
+    "category": "schools",
+    "name": "RKV Secondary School-Pirivu",
+    "lat": 10.952539,
+    "lon": 76.952129
+  },
+  {
+    "id": 573256962,
+    "type": "way",
+    "category": "schools",
+    "name": "Nehru College of Aeronautics & Applied Science",
+    "lat": 10.955409,
+    "lon": 76.954533
+  },
+  {
+    "id": 592282592,
+    "type": "way",
+    "category": "schools",
+    "name": "Kuniamuthur High School",
+    "lat": 10.968089,
+    "lon": 76.956912
+  },
+  {
+    "id": 593071385,
+    "type": "way",
+    "category": "schools",
+    "name": "Chinmaya Vidyalaya",
+    "lat": 11.025148,
+    "lon": 76.898455
+  },
+  {
+    "id": 593412907,
+    "type": "way",
+    "category": "schools",
+    "name": "P.R.Sidha Naidu Memorial Matriculation School",
+    "lat": 11.022108,
+    "lon": 76.976555
+  },
+  {
+    "id": 640199279,
+    "type": "way",
+    "category": "schools",
+    "name": "Suguna PIP School",
+    "lat": 11.050635,
+    "lon": 77.031415
+  },
+  {
+    "id": 640201443,
+    "type": "way",
+    "category": "schools",
+    "name": "Suguna Driving School",
+    "lat": 11.05098,
+    "lon": 77.034446
+  },
+  {
+    "id": 640203448,
+    "type": "way",
+    "category": "schools",
+    "name": "Park Global School",
+    "lat": 11.042418,
+    "lon": 77.038601
+  },
+  {
+    "id": 640205582,
+    "type": "way",
+    "category": "schools",
+    "name": "Sardar Vallabhbhai Patel International School of Textiles & Management",
+    "lat": 11.02536,
+    "lon": 77.008232
+  },
+  {
+    "id": 640205722,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG Sarva Jana Higher Secondary School",
+    "lat": 11.022721,
+    "lon": 77.004043
+  },
+  {
+    "id": 640205741,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG Institute of Management",
+    "lat": 11.022811,
+    "lon": 77.003094
+  },
+  {
+    "id": 640205921,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG Grounds",
+    "lat": 11.020389,
+    "lon": 77.004711
+  },
+  {
+    "id": 640746754,
+    "type": "way",
+    "category": "schools",
+    "name": "St. Marys School of Nursing",
+    "lat": 10.962192,
+    "lon": 76.986154
+  },
+  {
+    "id": 642860093,
+    "type": "way",
+    "category": "schools",
+    "name": "SBOA Matriculation Higher Secondary School",
+    "lat": 10.999925,
+    "lon": 76.940091
+  },
+  {
+    "id": 651640776,
+    "type": "way",
+    "category": "schools",
+    "name": "Seventh Day Adventist Matriculation School",
+    "lat": 11.007804,
+    "lon": 76.961781
+  },
+  {
+    "id": 676189598,
+    "type": "way",
+    "category": "schools",
+    "name": "KPN School Ground",
+    "lat": 10.964919,
+    "lon": 76.983635
+  },
+  {
+    "id": 676193762,
+    "type": "way",
+    "category": "schools",
+    "name": "Asharam Matriculation Higher Secondary School",
+    "lat": 10.953533,
+    "lon": 76.930092
+  },
+  {
+    "id": 676199999,
+    "type": "way",
+    "category": "schools",
+    "name": "Government Higher Secondary School",
+    "lat": 10.953146,
+    "lon": 76.921568
+  },
+  {
+    "id": 685341899,
+    "type": "way",
+    "category": "schools",
+    "name": "Coimbatore Corporation primary school",
+    "lat": 11.043591,
+    "lon": 76.863267
+  },
+  {
+    "id": 699905435,
+    "type": "way",
+    "category": "schools",
+    "name": "PSG Institute of Technology and Applied Research",
+    "lat": 11.067712,
+    "lon": 77.094574
+  },
+  {
+    "id": 965143864,
+    "type": "way",
+    "category": "schools",
+    "name": "RAK's Pallikoodam",
+    "lat": 11.038125,
+    "lon": 77.032906
+  },
+  {
+    "id": 973349415,
+    "type": "way",
+    "category": "schools",
+    "name": "G.K.D. Matriculation and higher secondary school",
+    "lat": 11.149788,
+    "lon": 76.955673
+  },
+  {
+    "id": 1137830197,
+    "type": "way",
+    "category": "schools",
+    "name": "Vincent Matric",
+    "lat": 11.046171,
+    "lon": 77.003294
+  },
+  {
+    "id": 1157856936,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.026784,
+    "lon": 77.02884
+  },
+  {
+    "id": 1179956459,
+    "type": "way",
+    "category": "schools",
+    "name": "Kalaignar Karunanidhi Institute of Technology",
+    "lat": 10.999212,
+    "lon": 77.084221
+  },
+  {
+    "id": 1233871626,
+    "type": "way",
+    "category": "schools",
+    "name": "Geethanjali Matriculation",
+    "lat": 11.041515,
+    "lon": 77.023019
+  },
+  {
+    "id": 1234334631,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 10.999226,
+    "lon": 76.974688
+  },
+  {
+    "id": 1234548079,
+    "type": "way",
+    "category": "schools",
+    "name": "Government Arts College Campus",
+    "lat": 10.998573,
+    "lon": 76.972641
+  },
+  {
+    "id": 1240249370,
+    "type": "way",
+    "category": "schools",
+    "name": "Avinashilingam Elimentry School",
+    "lat": 11.018631,
+    "lon": 76.952765
+  },
+  {
+    "id": 1241139022,
+    "type": "way",
+    "category": "schools",
+    "name": "Lisieux Matriculation Higher Secondary School",
+    "lat": 11.021345,
+    "lon": 76.942864
+  },
+  {
+    "id": 1246140277,
+    "type": "way",
+    "category": "schools",
+    "name": "KGISL Institute of Information Management",
+    "lat": 11.083439,
+    "lon": 76.997046
+  },
+  {
+    "id": 1248290356,
+    "type": "way",
+    "category": "schools",
+    "name": "GRG Matriculation Higher Secondary School",
+    "lat": 11.026205,
+    "lon": 77.017261
+  },
+  {
+    "id": 1305268672,
+    "type": "way",
+    "category": "schools",
+    "name": "Amrita Vidyalayam",
+    "lat": 11.067636,
+    "lon": 77.053311
+  },
+  {
+    "id": 1305268681,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.071772,
+    "lon": 77.055254
+  },
+  {
+    "id": 1305508643,
+    "type": "way",
+    "category": "schools",
+    "name": "GRD-CPF Matriculation Higher Secondary School",
+    "lat": 11.061734,
+    "lon": 77.092867
+  },
+  {
+    "id": 1305508645,
+    "type": "way",
+    "category": "schools",
+    "name": "Sri Vivekananda Matriculation Higher Secondary School",
+    "lat": 11.054695,
+    "lon": 77.057213
+  },
+  {
+    "id": 1309435418,
+    "type": "way",
+    "category": "schools",
+    "name": "Unnamed school",
+    "lat": 11.022066,
+    "lon": 76.967319
+  },
+  {
+    "id": 1443878498,
+    "type": "way",
+    "category": "schools",
+    "name": "PERKS Matriculation Higher Secondary School",
+    "lat": 11.001754,
+    "lon": 77.016983
+  },
+  {
+    "id": 1443879780,
+    "type": "way",
+    "category": "schools",
+    "name": "SSVM World School",
+    "lat": 10.985278,
+    "lon": 77.042139
+  },
+  {
+    "id": 1446375196,
+    "type": "way",
+    "category": "schools",
+    "name": "The Indian Public School",
+    "lat": 11.126421,
+    "lon": 77.041333
+  },
+  {
+    "id": 1447859384,
+    "type": "way",
+    "category": "schools",
+    "name": "Doon Public School",
+    "lat": 10.995573,
+    "lon": 76.978156
+  },
+  {
+    "id": 1447859385,
+    "type": "way",
+    "category": "schools",
+    "name": "Vivekalaya Matriculation Higher Secondary School",
+    "lat": 10.996288,
+    "lon": 76.978606
+  },
+  {
+    "id": 1447859779,
+    "type": "way",
+    "category": "schools",
+    "name": "Kovai Vidya Mandir School",
+    "lat": 11.04686,
+    "lon": 77.054027
+  },
+  {
+    "id": 1447860087,
+    "type": "way",
+    "category": "schools",
+    "name": "Coimbatore Public School",
+    "lat": 11.091819,
+    "lon": 76.970494
+  },
+  {
+    "id": 1447860559,
+    "type": "way",
+    "category": "schools",
+    "name": "Vidya Niketan Public School",
+    "lat": 11.009764,
+    "lon": 76.990585
+  },
+  {
+    "id": 1447866444,
+    "type": "way",
+    "category": "schools",
+    "name": "Vibgyor High School",
+    "lat": 11.012271,
+    "lon": 77.025233
+  },
+  {
+    "id": 1447866676,
+    "type": "way",
+    "category": "schools",
+    "name": "Harvee School",
+    "lat": 10.96674,
+    "lon": 76.953906
+  },
+  {
+    "id": 1447867414,
+    "type": "way",
+    "category": "schools",
+    "name": "National Model Senior Secondary School",
+    "lat": 11.017437,
+    "lon": 77.012146
+  },
+  {
+    "id": 1447871413,
+    "type": "way",
+    "category": "schools",
+    "name": "Camford International School",
+    "lat": 11.051357,
+    "lon": 76.968333
+  },
+  {
+    "id": 1447874173,
+    "type": "way",
+    "category": "schools",
+    "name": "Anan Kids Academy Play School",
+    "lat": 11.066213,
+    "lon": 77.035186
+  },
+  {
+    "id": 1447877769,
+    "type": "way",
+    "category": "schools",
+    "name": "Bharathiya Vidya Bhavan Matric Higher Secondary",
+    "lat": 11.012954,
+    "lon": 76.949679
+  },
+  {
+    "id": 1447880258,
+    "type": "way",
+    "category": "schools",
+    "name": "Delhi Public School Coimbatore",
+    "lat": 11.011111,
+    "lon": 76.870006
+  },
+  {
+    "id": 1448235140,
+    "type": "way",
+    "category": "schools",
+    "name": "Kumaraguru College of Technology",
+    "lat": 11.077563,
+    "lon": 76.988548
+  },
+  {
+    "id": 1460007334,
+    "type": "way",
+    "category": "schools",
+    "name": "Islamiyah Matriculation Higher Secondary School",
+    "lat": 10.975003,
+    "lon": 76.964699
+  },
+  {
+    "id": 1460012657,
+    "type": "way",
+    "category": "schools",
+    "name": "Texcity College of Nursing",
+    "lat": 10.970894,
+    "lon": 76.97133
+  },
+  {
+    "id": 1460013056,
+    "type": "way",
+    "category": "schools",
+    "name": "Sengotiah School Grounds",
+    "lat": 10.955222,
+    "lon": 76.978454
+  },
+  {
+    "id": 1468147279,
+    "type": "way",
+    "category": "schools",
+    "name": "Noor Sait Matricultion School",
+    "lat": 10.970344,
+    "lon": 76.950151
+  },
+  {
+    "id": 1468147282,
+    "type": "way",
+    "category": "schools",
+    "name": "GHHS Kurichi School",
+    "lat": 10.959993,
+    "lon": 76.962811
+  },
+  {
+    "id": 1468149230,
+    "type": "way",
+    "category": "schools",
+    "name": "Nirmala Matha Convent School-ICSE/ISC",
+    "lat": 10.956396,
+    "lon": 76.961707
+  },
+  {
+    "id": 1486808706,
+    "type": "way",
+    "category": "schools",
+    "name": "Vidya Vikasini Institutions",
+    "lat": 11.070131,
+    "lon": 76.941685
+  },
+  {
+    "id": 1494998246,
+    "type": "way",
+    "category": "schools",
+    "name": "Athul's Academy",
+    "lat": 11.019175,
+    "lon": 77.02325
+  },
+  {
+    "id": 1494998247,
+    "type": "way",
+    "category": "schools",
+    "name": "Thagi N G Ramaswamy School",
+    "lat": 11.017968,
+    "lon": 77.023615
+  },
+  {
+    "id": 1528968056,
+    "type": "way",
+    "category": "schools",
+    "name": "Adwaith Thought Academy",
+    "lat": 11.005495,
+    "lon": 77.003837
+  },
+  {
+    "id": 1528970689,
+    "type": "way",
+    "category": "schools",
+    "name": "Little Flower Children School",
+    "lat": 11.013806,
+    "lon": 77.006299
+  },
+  {
+    "id": 1531580314,
+    "type": "way",
+    "category": "schools",
+    "name": "Lil Pallikudam School",
+    "lat": 11.003549,
+    "lon": 76.970952
+  },
+  {
+    "id": 1531582973,
+    "type": "way",
+    "category": "schools",
+    "name": "ELGI School",
+    "lat": 10.966367,
+    "lon": 77.005932
+  },
+  {
+    "id": 1531583835,
+    "type": "way",
+    "category": "schools",
+    "name": "Nachi Muthu Gounder Rukmani Ammal Elementary School",
+    "lat": 10.965529,
+    "lon": 77.004945
+  },
+  {
+    "id": 1531592719,
+    "type": "way",
+    "category": "schools",
+    "name": "SBIOA Public Senior Secondary School",
+    "lat": 10.975936,
+    "lon": 77.058099
+  }
+]

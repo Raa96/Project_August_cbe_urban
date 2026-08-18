@@ -1,0 +1,314 @@
+[
+  {
+    "id": 832776936,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo",
+    "lat": 11.018796,
+    "lon": 76.960323
+  },
+  {
+    "id": 1468324438,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Prakash medicals",
+    "lat": 10.996925,
+    "lon": 77.000814
+  },
+  {
+    "id": 1468324461,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Revathi medicals",
+    "lat": 10.997217,
+    "lon": 77.000387
+  },
+  {
+    "id": 1470399520,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed pharmacie",
+    "lat": 11.000626,
+    "lon": 76.971076
+  },
+  {
+    "id": 1471791399,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "arya vaidhya salai",
+    "lat": 11.019354,
+    "lon": 76.960341
+  },
+  {
+    "id": 1472231440,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed pharmacie",
+    "lat": 11.008378,
+    "lon": 76.951077
+  },
+  {
+    "id": 1472620620,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Araya Vaidya Pharmacy",
+    "lat": 11.003885,
+    "lon": 76.951619
+  },
+  {
+    "id": 1473802717,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Chinnaiah Medicals",
+    "lat": 11.020771,
+    "lon": 76.968848
+  },
+  {
+    "id": 1473802733,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Pasumai Pharmacy",
+    "lat": 11.020355,
+    "lon": 76.966338
+  },
+  {
+    "id": 1474518439,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dheepmeena pharmacy",
+    "lat": 10.996962,
+    "lon": 76.995618
+  },
+  {
+    "id": 1474803277,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Ganesh Medicals",
+    "lat": 10.992298,
+    "lon": 76.959879
+  },
+  {
+    "id": 1913565274,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Apollo Pharma",
+    "lat": 11.030742,
+    "lon": 76.975725
+  },
+  {
+    "id": 1913566088,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Tulsi Pharmacy",
+    "lat": 11.034999,
+    "lon": 76.978383
+  },
+  {
+    "id": 2393648167,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Unnamed pharmacie",
+    "lat": 11.050073,
+    "lon": 76.983672
+  },
+  {
+    "id": 4373086692,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sri Kumaran",
+    "lat": 11.014841,
+    "lon": 76.948857
+  },
+  {
+    "id": 4379089792,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Arasu",
+    "lat": 11.025851,
+    "lon": 76.906045
+  },
+  {
+    "id": 4878934413,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sri Vaari pharmacy",
+    "lat": 11.003761,
+    "lon": 76.956095
+  },
+  {
+    "id": 5338398362,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Chitra pharmacy",
+    "lat": 10.990553,
+    "lon": 76.960774
+  },
+  {
+    "id": 6404096355,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "thulasi pharmacy",
+    "lat": 11.080313,
+    "lon": 76.942717
+  },
+  {
+    "id": 6436348985,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Matha Medicals",
+    "lat": 11.02034,
+    "lon": 77.018377
+  },
+  {
+    "id": 7844009712,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Nithya",
+    "lat": 11.025148,
+    "lon": 76.945602
+  },
+  {
+    "id": 7844009752,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Chithra Devi",
+    "lat": 11.064873,
+    "lon": 76.908714
+  },
+  {
+    "id": 7844131976,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. Sambadam",
+    "lat": 11.004127,
+    "lon": 76.951256
+  },
+  {
+    "id": 7844132011,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Dr. N. Bhaskar",
+    "lat": 11.021505,
+    "lon": 76.957814
+  },
+  {
+    "id": 8193621317,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "People's Pharmacy",
+    "lat": 11.012135,
+    "lon": 77.024129
+  },
+  {
+    "id": 10595890825,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Sundaram Medicals",
+    "lat": 11.016162,
+    "lon": 76.924575
+  },
+  {
+    "id": 11149608947,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Thulasi Pharmacy",
+    "lat": 11.022167,
+    "lon": 76.915408
+  },
+  {
+    "id": 12006552126,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "New Pharmacy",
+    "lat": 10.966551,
+    "lon": 76.950655
+  },
+  {
+    "id": 12041197061,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "RFS Medicals",
+    "lat": 10.965233,
+    "lon": 76.943096
+  },
+  {
+    "id": 12285349817,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Arasu Medicals",
+    "lat": 11.010285,
+    "lon": 76.950296
+  },
+  {
+    "id": 12285349827,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Kalai Medicals",
+    "lat": 11.01641,
+    "lon": 76.923836
+  },
+  {
+    "id": 13769333109,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "MedPlus",
+    "lat": 11.039441,
+    "lon": 76.929494
+  },
+  {
+    "id": 13769333116,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "Green Pharmacy",
+    "lat": 11.039511,
+    "lon": 76.928082
+  },
+  {
+    "id": 14072235024,
+    "type": "node",
+    "category": "pharmacies",
+    "name": "P.Govindaraj vascular surgeon",
+    "lat": 11.015474,
+    "lon": 76.954326
+  },
+  {
+    "id": 1132032492,
+    "type": "way",
+    "category": "pharmacies",
+    "name": "Vinayaka Medicals",
+    "lat": 11.018234,
+    "lon": 76.924777
+  },
+  {
+    "id": 1232732276,
+    "type": "way",
+    "category": "pharmacies",
+    "name": "ஆண்டவர் செக்கு ஆயில் ஸ்டோர்",
+    "lat": 11.024885,
+    "lon": 76.904726
+  },
+  {
+    "id": 1237548963,
+    "type": "way",
+    "category": "pharmacies",
+    "name": "Vinayaka Medicals",
+    "lat": 11.021545,
+    "lon": 76.917101
+  },
+  {
+    "id": 1239571346,
+    "type": "way",
+    "category": "pharmacies",
+    "name": "Green Pharmacy",
+    "lat": 11.025264,
+    "lon": 76.902453
+  },
+  {
+    "id": 1239571485,
+    "type": "way",
+    "category": "pharmacies",
+    "name": "Sree Meenakshi",
+    "lat": 11.025116,
+    "lon": 76.901574
+  }
+]

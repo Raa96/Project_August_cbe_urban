@@ -1,0 +1,301 @@
+date,station,area,pm25,pm10,no2,so2,o3
+2026-07-14,Gandhipuram-CCMC,Gandhipuram,55.7,89.1,33.3,8.8,33.1
+2026-07-14,Hopes-AvinashiRoad,Hopes College,47.4,81.6,23.3,7.1,27.5
+2026-07-14,PSG-Tech-Peelamedu,Peelamedu,52.7,90.9,25.0,6.7,27.5
+2026-07-14,RS Puram-WestZone,RS Puram,54.1,90.4,26.3,7.6,25.4
+2026-07-14,Ramanathapuram-Nanjundapuram,Ramanathapuram,47.4,82.5,27.9,6.2,25.3
+2026-07-14,Saibaba-MettupalayamRoad,Saibaba Colony,50.8,75.0,27.5,7.3,31.9
+2026-07-14,Saravanampatti-CHILSEZ,Saravanampatti,54.7,94.7,34.2,8.8,29.0
+2026-07-14,Singanallur-TrichyRoad,Singanallur,52.1,80.5,25.2,7.1,28.3
+2026-07-14,TownHall-DistrictCourt,Town Hall,60.9,106.9,29.3,9.6,30.8
+2026-07-14,Ukkadam-BusStand,Ukkadam,57.7,102.5,29.6,9.6,24.3
+2026-07-15,Gandhipuram-CCMC,Gandhipuram,53.6,75.3,30.5,9.1,24.9
+2026-07-15,Hopes-AvinashiRoad,Hopes College,37.4,57.5,21.4,4.8,27.6
+2026-07-15,PSG-Tech-Peelamedu,Peelamedu,44.3,71.0,25.9,6.8,24.5
+2026-07-15,RS Puram-WestZone,RS Puram,46.3,72.5,25.8,7.7,23.7
+2026-07-15,Ramanathapuram-Nanjundapuram,Ramanathapuram,48.3,80.2,23.6,6.2,17.9
+2026-07-15,Saibaba-MettupalayamRoad,Saibaba Colony,49.3,79.1,22.6,7.8,19.8
+2026-07-15,Saravanampatti-CHILSEZ,Saravanampatti,58.7,103.8,31.1,8.4,24.3
+2026-07-15,Singanallur-TrichyRoad,Singanallur,40.5,60.3,20.2,7.1,26.9
+2026-07-15,TownHall-DistrictCourt,Town Hall,58.7,104.0,30.1,7.9,24.3
+2026-07-15,Ukkadam-BusStand,Ukkadam,48.8,75.6,31.9,10.0,27.2
+2026-07-16,Gandhipuram-CCMC,Gandhipuram,58.7,101.0,30.7,8.3,20.8
+2026-07-16,Hopes-AvinashiRoad,Hopes College,44.8,78.2,28.2,6.9,31.2
+2026-07-16,PSG-Tech-Peelamedu,Peelamedu,43.3,77.7,24.3,6.3,29.2
+2026-07-16,RS Puram-WestZone,RS Puram,45.1,78.6,24.0,7.2,25.0
+2026-07-16,Ramanathapuram-Nanjundapuram,Ramanathapuram,35.7,61.7,22.4,7.7,25.2
+2026-07-16,Saibaba-MettupalayamRoad,Saibaba Colony,43.2,61.7,24.0,7.6,22.7
+2026-07-16,Saravanampatti-CHILSEZ,Saravanampatti,50.2,77.8,25.4,6.5,26.4
+2026-07-16,Singanallur-TrichyRoad,Singanallur,41.4,62.9,22.4,6.0,25.2
+2026-07-16,TownHall-DistrictCourt,Town Hall,58.4,96.6,32.7,9.2,30.6
+2026-07-16,Ukkadam-BusStand,Ukkadam,62.7,92.0,31.1,10.2,26.9
+2026-07-17,Gandhipuram-CCMC,Gandhipuram,65.5,99.3,30.2,7.9,24.7
+2026-07-17,Hopes-AvinashiRoad,Hopes College,49.1,82.3,25.5,6.9,26.8
+2026-07-17,PSG-Tech-Peelamedu,Peelamedu,58.9,99.9,23.5,6.1,30.8
+2026-07-17,RS Puram-WestZone,RS Puram,45.8,71.0,22.9,6.3,29.2
+2026-07-17,Ramanathapuram-Nanjundapuram,Ramanathapuram,53.4,75.7,25.5,6.8,25.9
+2026-07-17,Saibaba-MettupalayamRoad,Saibaba Colony,50.8,91.1,24.5,8.1,27.8
+2026-07-17,Saravanampatti-CHILSEZ,Saravanampatti,70.3,103.8,26.8,9.4,30.9
+2026-07-17,Singanallur-TrichyRoad,Singanallur,51.0,77.8,22.6,5.8,33.5
+2026-07-17,TownHall-DistrictCourt,Town Hall,69.5,119.9,29.5,8.1,28.6
+2026-07-17,Ukkadam-BusStand,Ukkadam,60.8,92.4,28.1,9.3,34.5
+2026-07-18,Gandhipuram-CCMC,Gandhipuram,76.7,132.7,41.9,10.6,22.5
+2026-07-18,Hopes-AvinashiRoad,Hopes College,44.1,63.7,22.6,6.1,29.2
+2026-07-18,PSG-Tech-Peelamedu,Peelamedu,39.7,56.5,23.2,5.1,28.6
+2026-07-18,RS Puram-WestZone,RS Puram,42.3,61.7,20.8,5.9,26.1
+2026-07-18,Ramanathapuram-Nanjundapuram,Ramanathapuram,39.3,59.9,20.5,6.4,31.8
+2026-07-18,Saibaba-MettupalayamRoad,Saibaba Colony,45.0,72.6,22.4,5.7,25.6
+2026-07-18,Saravanampatti-CHILSEZ,Saravanampatti,40.5,62.7,20.3,5.2,30.4
+2026-07-18,Singanallur-TrichyRoad,Singanallur,52.5,74.5,22.6,6.3,21.8
+2026-07-18,TownHall-DistrictCourt,Town Hall,85.9,151.8,37.7,9.4,24.2
+2026-07-18,Ukkadam-BusStand,Ukkadam,61.9,98.8,30.4,8.9,26.1
+2026-07-19,Gandhipuram-CCMC,Gandhipuram,79.6,137.3,35.5,9.0,22.3
+2026-07-19,Hopes-AvinashiRoad,Hopes College,44.0,75.6,23.7,6.5,29.8
+2026-07-19,PSG-Tech-Peelamedu,Peelamedu,48.6,84.5,22.3,5.8,27.7
+2026-07-19,RS Puram-WestZone,RS Puram,53.1,83.9,19.2,5.7,31.9
+2026-07-19,Ramanathapuram-Nanjundapuram,Ramanathapuram,38.6,65.6,21.8,5.1,28.7
+2026-07-19,Saibaba-MettupalayamRoad,Saibaba Colony,50.7,80.8,19.9,5.7,20.3
+2026-07-19,Saravanampatti-CHILSEZ,Saravanampatti,41.7,70.2,21.3,5.6,23.2
+2026-07-19,Singanallur-TrichyRoad,Singanallur,43.4,60.8,20.4,6.9,24.5
+2026-07-19,TownHall-DistrictCourt,Town Hall,72.8,106.4,37.1,10.2,32.7
+2026-07-19,Ukkadam-BusStand,Ukkadam,60.8,108.8,28.4,6.2,30.7
+2026-07-20,Gandhipuram-CCMC,Gandhipuram,60.5,106.4,31.7,8.5,24.7
+2026-07-20,Hopes-AvinashiRoad,Hopes College,52.2,81.3,27.2,8.1,26.8
+2026-07-20,PSG-Tech-Peelamedu,Peelamedu,52.7,75.6,23.1,7.4,28.3
+2026-07-20,RS Puram-WestZone,RS Puram,48.5,71.1,22.0,7.4,32.5
+2026-07-20,Ramanathapuram-Nanjundapuram,Ramanathapuram,44.9,66.7,26.0,7.2,26.3
+2026-07-20,Saibaba-MettupalayamRoad,Saibaba Colony,54.7,91.2,24.5,7.5,26.8
+2026-07-20,Saravanampatti-CHILSEZ,Saravanampatti,63.3,102.0,30.7,8.1,28.1
+2026-07-20,Singanallur-TrichyRoad,Singanallur,51.2,83.2,20.6,6.2,28.1
+2026-07-20,TownHall-DistrictCourt,Town Hall,71.0,126.9,28.4,9.1,27.6
+2026-07-20,Ukkadam-BusStand,Ukkadam,65.6,96.9,34.0,9.7,31.5
+2026-07-21,Gandhipuram-CCMC,Gandhipuram,70.7,113.9,38.5,9.6,22.2
+2026-07-21,Hopes-AvinashiRoad,Hopes College,53.4,78.7,21.8,6.6,26.0
+2026-07-21,PSG-Tech-Peelamedu,Peelamedu,51.4,77.7,29.0,5.7,30.7
+2026-07-21,RS Puram-WestZone,RS Puram,42.4,71.9,24.0,7.0,26.8
+2026-07-21,Ramanathapuram-Nanjundapuram,Ramanathapuram,54.7,76.8,22.9,8.2,29.5
+2026-07-21,Saibaba-MettupalayamRoad,Saibaba Colony,48.2,86.2,23.7,8.9,29.6
+2026-07-21,Saravanampatti-CHILSEZ,Saravanampatti,63.4,99.6,26.3,8.0,30.3
+2026-07-21,Singanallur-TrichyRoad,Singanallur,50.4,86.1,19.9,6.8,26.4
+2026-07-21,TownHall-DistrictCourt,Town Hall,75.2,113.2,31.8,8.6,28.2
+2026-07-21,Ukkadam-BusStand,Ukkadam,79.0,128.6,28.8,7.9,25.1
+2026-07-22,Gandhipuram-CCMC,Gandhipuram,35.2,50.7,21.0,10.2,28.2
+2026-07-22,Hopes-AvinashiRoad,Hopes College,24.1,38.1,11.4,8.1,25.4
+2026-07-22,PSG-Tech-Peelamedu,Peelamedu,17.1,30.3,13.0,7.1,23.7
+2026-07-22,RS Puram-WestZone,RS Puram,22.1,35.8,16.4,6.3,22.1
+2026-07-22,Ramanathapuram-Nanjundapuram,Ramanathapuram,22.2,35.7,17.2,6.9,26.9
+2026-07-22,Saibaba-MettupalayamRoad,Saibaba Colony,17.4,29.1,15.3,7.1,27.9
+2026-07-22,Saravanampatti-CHILSEZ,Saravanampatti,34.9,59.6,19.2,9.3,25.1
+2026-07-22,Singanallur-TrichyRoad,Singanallur,26.9,44.4,16.5,6.9,23.5
+2026-07-22,TownHall-DistrictCourt,Town Hall,40.2,61.1,24.8,9.3,23.6
+2026-07-22,Ukkadam-BusStand,Ukkadam,25.7,42.3,20.7,8.4,25.0
+2026-07-23,Gandhipuram-CCMC,Gandhipuram,64.1,115.0,32.0,8.7,25.4
+2026-07-23,Hopes-AvinashiRoad,Hopes College,57.6,90.4,23.1,6.8,26.5
+2026-07-23,PSG-Tech-Peelamedu,Peelamedu,50.4,87.0,21.5,7.3,26.6
+2026-07-23,RS Puram-WestZone,RS Puram,58.3,84.7,22.8,7.0,27.6
+2026-07-23,Ramanathapuram-Nanjundapuram,Ramanathapuram,55.5,83.8,23.2,7.9,23.3
+2026-07-23,Saibaba-MettupalayamRoad,Saibaba Colony,55.1,93.4,22.1,6.7,24.5
+2026-07-23,Saravanampatti-CHILSEZ,Saravanampatti,58.2,104.4,26.6,9.3,29.0
+2026-07-23,Singanallur-TrichyRoad,Singanallur,51.5,88.6,23.6,7.6,25.8
+2026-07-23,TownHall-DistrictCourt,Town Hall,64.0,109.0,28.7,10.0,21.8
+2026-07-23,Ukkadam-BusStand,Ukkadam,77.4,115.4,31.1,8.8,25.4
+2026-07-24,Gandhipuram-CCMC,Gandhipuram,49.6,76.5,29.6,8.5,26.5
+2026-07-24,Hopes-AvinashiRoad,Hopes College,44.3,64.7,22.0,8.2,29.9
+2026-07-24,PSG-Tech-Peelamedu,Peelamedu,47.4,74.1,19.9,6.6,26.9
+2026-07-24,RS Puram-WestZone,RS Puram,44.4,62.8,23.9,7.0,26.7
+2026-07-24,Ramanathapuram-Nanjundapuram,Ramanathapuram,41.1,72.5,16.7,7.5,31.8
+2026-07-24,Saibaba-MettupalayamRoad,Saibaba Colony,42.9,67.9,22.9,5.2,25.3
+2026-07-24,Saravanampatti-CHILSEZ,Saravanampatti,51.6,83.6,29.4,9.7,26.2
+2026-07-24,Singanallur-TrichyRoad,Singanallur,41.9,68.0,20.5,5.4,27.2
+2026-07-24,TownHall-DistrictCourt,Town Hall,59.8,91.0,28.6,8.5,26.1
+2026-07-24,Ukkadam-BusStand,Ukkadam,59.7,94.8,27.8,8.3,25.4
+2026-07-25,Gandhipuram-CCMC,Gandhipuram,81.3,125.0,36.8,10.3,28.1
+2026-07-25,Hopes-AvinashiRoad,Hopes College,57.0,102.2,20.9,5.6,30.1
+2026-07-25,PSG-Tech-Peelamedu,Peelamedu,47.5,78.0,19.4,6.1,27.0
+2026-07-25,RS Puram-WestZone,RS Puram,49.1,77.2,21.7,4.9,35.1
+2026-07-25,Ramanathapuram-Nanjundapuram,Ramanathapuram,51.9,91.2,20.8,7.2,22.5
+2026-07-25,Saibaba-MettupalayamRoad,Saibaba Colony,31.9,48.2,22.3,5.0,29.0
+2026-07-25,Saravanampatti-CHILSEZ,Saravanampatti,41.0,73.8,16.7,6.0,25.3
+2026-07-25,Singanallur-TrichyRoad,Singanallur,51.7,77.7,16.5,6.1,26.4
+2026-07-25,TownHall-DistrictCourt,Town Hall,77.6,126.4,37.7,10.2,28.8
+2026-07-25,Ukkadam-BusStand,Ukkadam,69.3,117.3,26.7,9.5,34.0
+2026-07-26,Gandhipuram-CCMC,Gandhipuram,38.5,69.0,27.6,10.3,32.6
+2026-07-26,Hopes-AvinashiRoad,Hopes College,10.0,20.0,13.4,6.5,34.9
+2026-07-26,PSG-Tech-Peelamedu,Peelamedu,17.8,26.1,10.6,4.9,25.6
+2026-07-26,RS Puram-WestZone,RS Puram,17.7,28.2,10.7,6.4,33.2
+2026-07-26,Ramanathapuram-Nanjundapuram,Ramanathapuram,18.8,28.1,11.7,6.5,24.5
+2026-07-26,Saibaba-MettupalayamRoad,Saibaba Colony,13.3,21.0,16.7,6.4,30.5
+2026-07-26,Saravanampatti-CHILSEZ,Saravanampatti,13.6,22.2,10.7,5.1,33.4
+2026-07-26,Singanallur-TrichyRoad,Singanallur,12.1,20.0,10.6,6.0,30.7
+2026-07-26,TownHall-DistrictCourt,Town Hall,40.4,71.0,25.7,10.2,30.6
+2026-07-26,Ukkadam-BusStand,Ukkadam,24.4,40.9,13.6,8.4,26.4
+2026-07-27,Gandhipuram-CCMC,Gandhipuram,62.0,94.6,29.3,7.3,29.9
+2026-07-27,Hopes-AvinashiRoad,Hopes College,51.9,92.9,22.3,6.0,23.9
+2026-07-27,PSG-Tech-Peelamedu,Peelamedu,55.6,83.2,24.0,7.9,33.2
+2026-07-27,RS Puram-WestZone,RS Puram,52.7,88.0,25.5,7.4,28.3
+2026-07-27,Ramanathapuram-Nanjundapuram,Ramanathapuram,51.9,90.1,26.1,6.0,29.6
+2026-07-27,Saibaba-MettupalayamRoad,Saibaba Colony,59.6,96.4,20.5,6.6,28.2
+2026-07-27,Saravanampatti-CHILSEZ,Saravanampatti,58.7,91.8,26.6,7.2,32.3
+2026-07-27,Singanallur-TrichyRoad,Singanallur,50.2,89.9,22.0,6.4,27.6
+2026-07-27,TownHall-DistrictCourt,Town Hall,81.9,142.8,33.9,9.1,33.3
+2026-07-27,Ukkadam-BusStand,Ukkadam,63.0,89.7,33.4,7.4,27.5
+2026-07-28,Gandhipuram-CCMC,Gandhipuram,66.6,101.3,33.6,8.6,28.4
+2026-07-28,Hopes-AvinashiRoad,Hopes College,51.1,85.7,22.0,7.6,30.5
+2026-07-28,PSG-Tech-Peelamedu,Peelamedu,44.9,67.8,26.0,5.1,24.7
+2026-07-28,RS Puram-WestZone,RS Puram,49.2,80.1,24.1,7.2,32.5
+2026-07-28,Ramanathapuram-Nanjundapuram,Ramanathapuram,34.4,50.7,23.4,5.3,25.8
+2026-07-28,Saibaba-MettupalayamRoad,Saibaba Colony,43.1,62.6,20.3,6.4,26.6
+2026-07-28,Saravanampatti-CHILSEZ,Saravanampatti,61.3,104.6,31.6,8.9,23.2
+2026-07-28,Singanallur-TrichyRoad,Singanallur,47.0,78.0,26.7,8.4,18.2
+2026-07-28,TownHall-DistrictCourt,Town Hall,57.5,82.4,29.3,7.1,24.0
+2026-07-28,Ukkadam-BusStand,Ukkadam,56.0,93.9,32.4,8.6,27.0
+2026-07-29,Gandhipuram-CCMC,Gandhipuram,69.2,109.8,33.9,9.2,25.1
+2026-07-29,Hopes-AvinashiRoad,Hopes College,53.7,88.6,24.2,6.6,25.6
+2026-07-29,PSG-Tech-Peelamedu,Peelamedu,56.0,92.1,23.6,7.4,29.9
+2026-07-29,RS Puram-WestZone,RS Puram,53.3,80.5,22.1,5.7,31.1
+2026-07-29,Ramanathapuram-Nanjundapuram,Ramanathapuram,53.9,76.0,23.1,7.7,30.3
+2026-07-29,Saibaba-MettupalayamRoad,Saibaba Colony,54.9,91.1,25.7,7.2,24.8
+2026-07-29,Saravanampatti-CHILSEZ,Saravanampatti,65.0,100.4,31.0,9.2,30.1
+2026-07-29,Singanallur-TrichyRoad,Singanallur,49.2,77.3,23.5,7.5,27.3
+2026-07-29,TownHall-DistrictCourt,Town Hall,60.1,96.8,33.0,8.4,20.8
+2026-07-29,Ukkadam-BusStand,Ukkadam,75.4,125.5,29.5,8.1,30.2
+2026-07-30,Gandhipuram-CCMC,Gandhipuram,35.1,58.3,22.4,9.1,27.9
+2026-07-30,Hopes-AvinashiRoad,Hopes College,13.1,20.0,10.3,7.7,30.9
+2026-07-30,PSG-Tech-Peelamedu,Peelamedu,18.6,32.3,11.1,6.5,30.8
+2026-07-30,RS Puram-WestZone,RS Puram,15.3,22.0,15.2,6.8,32.9
+2026-07-30,Ramanathapuram-Nanjundapuram,Ramanathapuram,23.8,34.2,10.1,7.2,33.8
+2026-07-30,Saibaba-MettupalayamRoad,Saibaba Colony,19.8,29.2,13.9,7.1,27.4
+2026-07-30,Saravanampatti-CHILSEZ,Saravanampatti,36.3,62.7,20.4,7.7,25.3
+2026-07-30,Singanallur-TrichyRoad,Singanallur,15.1,21.3,16.4,7.6,33.5
+2026-07-30,TownHall-DistrictCourt,Town Hall,48.6,81.2,25.1,8.8,25.9
+2026-07-30,Ukkadam-BusStand,Ukkadam,44.4,79.3,24.6,8.3,30.7
+2026-07-31,Gandhipuram-CCMC,Gandhipuram,66.5,113.9,31.9,9.0,26.0
+2026-07-31,Hopes-AvinashiRoad,Hopes College,44.5,73.7,25.8,7.2,24.2
+2026-07-31,PSG-Tech-Peelamedu,Peelamedu,47.7,70.0,23.6,6.5,26.1
+2026-07-31,RS Puram-WestZone,RS Puram,45.8,80.9,20.6,6.6,23.3
+2026-07-31,Ramanathapuram-Nanjundapuram,Ramanathapuram,48.2,85.1,28.2,7.6,21.6
+2026-07-31,Saibaba-MettupalayamRoad,Saibaba Colony,41.9,70.1,22.4,8.0,26.1
+2026-07-31,Saravanampatti-CHILSEZ,Saravanampatti,56.3,88.0,26.5,7.8,20.4
+2026-07-31,Singanallur-TrichyRoad,Singanallur,38.2,67.5,24.7,7.4,23.6
+2026-07-31,TownHall-DistrictCourt,Town Hall,65.3,115.1,31.3,9.7,24.2
+2026-07-31,Ukkadam-BusStand,Ukkadam,52.5,77.5,32.2,8.1,23.6
+2026-08-01,Gandhipuram-CCMC,Gandhipuram,92.2,134.3,39.2,11.3,26.7
+2026-08-01,Hopes-AvinashiRoad,Hopes College,45.3,75.3,23.2,7.8,30.6
+2026-08-01,PSG-Tech-Peelamedu,Peelamedu,54.3,81.8,24.7,6.4,27.7
+2026-08-01,RS Puram-WestZone,RS Puram,49.3,85.4,23.3,7.2,33.0
+2026-08-01,Ramanathapuram-Nanjundapuram,Ramanathapuram,43.0,73.9,23.0,6.5,28.5
+2026-08-01,Saibaba-MettupalayamRoad,Saibaba Colony,46.5,76.8,22.5,4.9,23.6
+2026-08-01,Saravanampatti-CHILSEZ,Saravanampatti,49.7,88.2,17.8,6.1,31.1
+2026-08-01,Singanallur-TrichyRoad,Singanallur,49.2,74.2,21.9,6.7,31.5
+2026-08-01,TownHall-DistrictCourt,Town Hall,80.3,135.5,41.5,10.9,28.5
+2026-08-01,Ukkadam-BusStand,Ukkadam,52.2,90.3,26.5,8.0,25.7
+2026-08-02,Gandhipuram-CCMC,Gandhipuram,88.9,128.3,34.1,11.0,28.2
+2026-08-02,Hopes-AvinashiRoad,Hopes College,53.6,95.7,19.1,6.4,32.5
+2026-08-02,PSG-Tech-Peelamedu,Peelamedu,45.6,81.7,21.3,5.7,29.0
+2026-08-02,RS Puram-WestZone,RS Puram,53.2,82.5,20.3,6.2,28.0
+2026-08-02,Ramanathapuram-Nanjundapuram,Ramanathapuram,48.7,76.3,21.4,5.8,32.4
+2026-08-02,Saibaba-MettupalayamRoad,Saibaba Colony,50.8,90.0,19.8,7.4,29.9
+2026-08-02,Saravanampatti-CHILSEZ,Saravanampatti,53.5,90.6,18.3,5.4,26.7
+2026-08-02,Singanallur-TrichyRoad,Singanallur,46.5,71.8,22.1,6.5,30.0
+2026-08-02,TownHall-DistrictCourt,Town Hall,86.3,135.7,36.5,10.5,33.9
+2026-08-02,Ukkadam-BusStand,Ukkadam,59.7,98.0,29.2,6.9,35.4
+2026-08-03,Gandhipuram-CCMC,Gandhipuram,61.0,103.4,31.3,9.2,20.0
+2026-08-03,Hopes-AvinashiRoad,Hopes College,51.5,75.1,21.5,5.7,32.9
+2026-08-03,PSG-Tech-Peelamedu,Peelamedu,44.3,69.5,23.1,6.4,31.2
+2026-08-03,RS Puram-WestZone,RS Puram,42.1,72.6,25.2,5.8,27.3
+2026-08-03,Ramanathapuram-Nanjundapuram,Ramanathapuram,48.0,83.1,20.1,5.4,24.4
+2026-08-03,Saibaba-MettupalayamRoad,Saibaba Colony,48.0,75.8,25.1,5.7,25.9
+2026-08-03,Saravanampatti-CHILSEZ,Saravanampatti,51.7,93.0,32.5,6.8,17.6
+2026-08-03,Singanallur-TrichyRoad,Singanallur,50.9,87.6,24.0,8.3,24.9
+2026-08-03,TownHall-DistrictCourt,Town Hall,60.9,89.9,36.6,7.5,25.4
+2026-08-03,Ukkadam-BusStand,Ukkadam,60.9,108.5,32.7,10.6,27.7
+2026-08-04,Gandhipuram-CCMC,Gandhipuram,55.5,86.0,31.5,9.0,26.1
+2026-08-04,Hopes-AvinashiRoad,Hopes College,54.0,80.4,23.5,6.8,25.0
+2026-08-04,PSG-Tech-Peelamedu,Peelamedu,47.9,75.1,25.0,6.4,28.6
+2026-08-04,RS Puram-WestZone,RS Puram,46.8,67.6,19.3,5.6,30.7
+2026-08-04,Ramanathapuram-Nanjundapuram,Ramanathapuram,52.1,87.0,26.0,7.8,29.2
+2026-08-04,Saibaba-MettupalayamRoad,Saibaba Colony,44.8,67.2,22.6,7.7,31.9
+2026-08-04,Saravanampatti-CHILSEZ,Saravanampatti,55.0,83.2,28.5,7.3,27.0
+2026-08-04,Singanallur-TrichyRoad,Singanallur,46.2,70.9,24.6,6.8,29.3
+2026-08-04,TownHall-DistrictCourt,Town Hall,67.5,111.1,32.4,9.5,27.1
+2026-08-04,Ukkadam-BusStand,Ukkadam,55.3,94.4,28.0,8.4,32.2
+2026-08-05,Gandhipuram-CCMC,Gandhipuram,64.0,109.4,32.9,9.7,28.3
+2026-08-05,Hopes-AvinashiRoad,Hopes College,44.9,77.3,24.6,6.5,30.7
+2026-08-05,PSG-Tech-Peelamedu,Peelamedu,47.3,77.1,20.4,7.3,28.8
+2026-08-05,RS Puram-WestZone,RS Puram,53.3,74.9,24.6,5.3,34.8
+2026-08-05,Ramanathapuram-Nanjundapuram,Ramanathapuram,44.5,74.5,23.7,8.2,28.5
+2026-08-05,Saibaba-MettupalayamRoad,Saibaba Colony,40.3,66.9,22.5,6.8,28.1
+2026-08-05,Saravanampatti-CHILSEZ,Saravanampatti,53.6,95.7,29.7,7.6,28.5
+2026-08-05,Singanallur-TrichyRoad,Singanallur,41.7,71.8,25.1,4.4,28.8
+2026-08-05,TownHall-DistrictCourt,Town Hall,59.1,95.7,31.2,7.9,28.7
+2026-08-05,Ukkadam-BusStand,Ukkadam,68.3,119.0,30.4,9.2,27.3
+2026-08-06,Gandhipuram-CCMC,Gandhipuram,69.3,99.8,29.5,7.5,32.1
+2026-08-06,Hopes-AvinashiRoad,Hopes College,47.5,78.6,24.0,7.3,25.4
+2026-08-06,PSG-Tech-Peelamedu,Peelamedu,55.3,80.2,26.2,6.1,27.5
+2026-08-06,RS Puram-WestZone,RS Puram,58.9,85.0,25.6,8.1,28.4
+2026-08-06,Ramanathapuram-Nanjundapuram,Ramanathapuram,53.3,94.9,25.2,5.1,30.6
+2026-08-06,Saibaba-MettupalayamRoad,Saibaba Colony,54.9,87.2,27.1,8.1,28.2
+2026-08-06,Saravanampatti-CHILSEZ,Saravanampatti,60.2,92.3,30.4,10.2,27.4
+2026-08-06,Singanallur-TrichyRoad,Singanallur,55.5,88.5,21.7,6.2,27.4
+2026-08-06,TownHall-DistrictCourt,Town Hall,61.8,97.9,29.2,8.9,22.4
+2026-08-06,Ukkadam-BusStand,Ukkadam,59.0,93.2,33.2,8.9,29.4
+2026-08-07,Gandhipuram-CCMC,Gandhipuram,60.6,95.9,30.4,8.4,27.1
+2026-08-07,Hopes-AvinashiRoad,Hopes College,55.9,85.8,23.1,5.9,26.0
+2026-08-07,PSG-Tech-Peelamedu,Peelamedu,47.3,82.8,24.9,8.1,22.5
+2026-08-07,RS Puram-WestZone,RS Puram,53.4,77.5,24.1,7.1,21.1
+2026-08-07,Ramanathapuram-Nanjundapuram,Ramanathapuram,50.8,82.2,22.9,7.6,22.0
+2026-08-07,Saibaba-MettupalayamRoad,Saibaba Colony,52.1,74.0,21.0,6.9,29.6
+2026-08-07,Saravanampatti-CHILSEZ,Saravanampatti,52.7,79.8,27.0,9.1,23.2
+2026-08-07,Singanallur-TrichyRoad,Singanallur,43.1,60.7,23.2,6.6,22.5
+2026-08-07,TownHall-DistrictCourt,Town Hall,62.9,108.2,31.7,6.9,23.5
+2026-08-07,Ukkadam-BusStand,Ukkadam,63.1,101.3,33.4,11.0,24.4
+2026-08-08,Gandhipuram-CCMC,Gandhipuram,75.7,122.3,39.9,11.4,31.3
+2026-08-08,Hopes-AvinashiRoad,Hopes College,39.7,58.0,20.2,5.3,26.0
+2026-08-08,PSG-Tech-Peelamedu,Peelamedu,35.3,56.3,20.7,6.7,28.4
+2026-08-08,RS Puram-WestZone,RS Puram,42.4,60.3,20.8,6.5,32.3
+2026-08-08,Ramanathapuram-Nanjundapuram,Ramanathapuram,53.1,78.0,23.4,5.8,25.4
+2026-08-08,Saibaba-MettupalayamRoad,Saibaba Colony,34.5,49.9,22.5,6.9,30.3
+2026-08-08,Saravanampatti-CHILSEZ,Saravanampatti,31.5,45.9,17.8,6.5,32.6
+2026-08-08,Singanallur-TrichyRoad,Singanallur,38.9,58.2,23.6,6.3,30.0
+2026-08-08,TownHall-DistrictCourt,Town Hall,72.1,112.5,35.7,10.3,30.4
+2026-08-08,Ukkadam-BusStand,Ukkadam,48.5,75.7,24.9,7.8,26.5
+2026-08-09,Gandhipuram-CCMC,Gandhipuram,85.2,131.2,38.8,11.7,28.7
+2026-08-09,Hopes-AvinashiRoad,Hopes College,45.0,69.7,18.9,6.5,25.5
+2026-08-09,PSG-Tech-Peelamedu,Peelamedu,43.5,67.3,22.7,6.6,24.4
+2026-08-09,RS Puram-WestZone,RS Puram,47.1,76.8,24.9,6.7,29.4
+2026-08-09,Ramanathapuram-Nanjundapuram,Ramanathapuram,44.3,77.0,18.4,7.2,30.7
+2026-08-09,Saibaba-MettupalayamRoad,Saibaba Colony,54.5,92.8,21.2,5.2,28.0
+2026-08-09,Saravanampatti-CHILSEZ,Saravanampatti,44.6,64.0,19.9,4.5,26.4
+2026-08-09,Singanallur-TrichyRoad,Singanallur,53.1,87.5,16.9,7.1,28.3
+2026-08-09,TownHall-DistrictCourt,Town Hall,76.1,132.5,35.9,10.1,30.6
+2026-08-09,Ukkadam-BusStand,Ukkadam,66.5,102.4,25.5,9.8,30.5
+2026-08-10,Gandhipuram-CCMC,Gandhipuram,56.2,86.9,34.5,8.9,29.6
+2026-08-10,Hopes-AvinashiRoad,Hopes College,44.2,75.4,25.7,6.1,30.3
+2026-08-10,PSG-Tech-Peelamedu,Peelamedu,49.8,78.3,24.4,7.0,29.8
+2026-08-10,RS Puram-WestZone,RS Puram,43.6,77.6,22.3,7.7,27.1
+2026-08-10,Ramanathapuram-Nanjundapuram,Ramanathapuram,39.7,56.9,24.1,5.9,31.7
+2026-08-10,Saibaba-MettupalayamRoad,Saibaba Colony,41.8,66.6,26.3,6.4,32.2
+2026-08-10,Saravanampatti-CHILSEZ,Saravanampatti,45.5,70.4,27.8,9.5,28.7
+2026-08-10,Singanallur-TrichyRoad,Singanallur,46.3,77.2,19.5,6.2,25.4
+2026-08-10,TownHall-DistrictCourt,Town Hall,62.2,101.4,33.1,8.9,28.5
+2026-08-10,Ukkadam-BusStand,Ukkadam,58.6,94.8,35.4,8.1,27.6
+2026-08-11,Gandhipuram-CCMC,Gandhipuram,38.0,54.0,21.2,9.4,37.2
+2026-08-11,Hopes-AvinashiRoad,Hopes College,32.2,47.2,17.2,6.9,23.8
+2026-08-11,PSG-Tech-Peelamedu,Peelamedu,20.2,33.5,15.7,7.5,29.3
+2026-08-11,RS Puram-WestZone,RS Puram,24.1,36.4,18.4,7.0,28.7
+2026-08-11,Ramanathapuram-Nanjundapuram,Ramanathapuram,24.6,40.0,18.5,5.2,34.0
+2026-08-11,Saibaba-MettupalayamRoad,Saibaba Colony,29.4,41.9,19.9,5.8,27.2
+2026-08-11,Saravanampatti-CHILSEZ,Saravanampatti,26.7,43.6,21.0,7.6,26.5
+2026-08-11,Singanallur-TrichyRoad,Singanallur,32.7,54.5,18.0,7.2,27.3
+2026-08-11,TownHall-DistrictCourt,Town Hall,45.2,72.9,28.6,10.8,25.8
+2026-08-11,Ukkadam-BusStand,Ukkadam,47.8,72.3,25.4,7.8,28.3
+2026-08-12,Gandhipuram-CCMC,Gandhipuram,75.0,125.8,30.5,7.2,29.6
+2026-08-12,Hopes-AvinashiRoad,Hopes College,57.6,96.4,23.5,6.8,30.6
+2026-08-12,PSG-Tech-Peelamedu,Peelamedu,50.4,76.9,25.3,7.5,29.8
+2026-08-12,RS Puram-WestZone,RS Puram,50.9,88.7,22.8,5.9,28.4
+2026-08-12,Ramanathapuram-Nanjundapuram,Ramanathapuram,43.3,76.5,21.8,7.1,34.5
+2026-08-12,Saibaba-MettupalayamRoad,Saibaba Colony,54.1,77.0,25.5,6.9,24.8
+2026-08-12,Saravanampatti-CHILSEZ,Saravanampatti,57.3,93.8,30.2,8.3,30.0
+2026-08-12,Singanallur-TrichyRoad,Singanallur,52.6,89.9,26.1,8.4,35.9
+2026-08-12,TownHall-DistrictCourt,Town Hall,59.7,84.1,32.5,9.8,36.7
+2026-08-12,Ukkadam-BusStand,Ukkadam,70.8,100.9,34.3,10.3,30.3

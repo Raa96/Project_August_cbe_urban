@@ -1,0 +1,802 @@
+[
+  {
+    "id": 3891556100,
+    "type": "node",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.00378,
+    "lon": 77.038319
+  },
+  {
+    "id": 4571630624,
+    "type": "node",
+    "category": "parks",
+    "name": "T.V.S Ground",
+    "lat": 10.988201,
+    "lon": 76.93738
+  },
+  {
+    "id": 4571630627,
+    "type": "node",
+    "category": "parks",
+    "name": "Provident Green Park",
+    "lat": 10.983204,
+    "lon": 76.938415
+  },
+  {
+    "id": 4571630630,
+    "type": "node",
+    "category": "parks",
+    "name": "Pitch Ground",
+    "lat": 10.991967,
+    "lon": 76.938027
+  },
+  {
+    "id": 12078016820,
+    "type": "node",
+    "category": "parks",
+    "name": "VISHNU KRUPA",
+    "lat": 11.042165,
+    "lon": 76.96478
+  },
+  {
+    "id": 12141483789,
+    "type": "node",
+    "category": "parks",
+    "name": "PVS Garden",
+    "lat": 10.992985,
+    "lon": 77.001994
+  },
+  {
+    "id": 12607017558,
+    "type": "node",
+    "category": "parks",
+    "name": "G.V. Residency Park",
+    "lat": 11.009671,
+    "lon": 77.015747
+  },
+  {
+    "id": 13644789115,
+    "type": "node",
+    "category": "parks",
+    "name": "Uzhiyum Nanum",
+    "lat": 11.100645,
+    "lon": 77.026546
+  },
+  {
+    "id": 29983268,
+    "type": "way",
+    "category": "parks",
+    "name": "Gandhi Park",
+    "lat": 11.000761,
+    "lon": 76.949598
+  },
+  {
+    "id": 66102296,
+    "type": "way",
+    "category": "parks",
+    "name": "Coimbatore Zoo",
+    "lat": 11.007826,
+    "lon": 76.970698
+  },
+  {
+    "id": 66102328,
+    "type": "way",
+    "category": "parks",
+    "name": "VOC Park",
+    "lat": 11.006963,
+    "lon": 76.971004
+  },
+  {
+    "id": 92379754,
+    "type": "way",
+    "category": "parks",
+    "name": "Mini Garden in Gandhipuram Bus stand",
+    "lat": 11.01627,
+    "lon": 76.969209
+  },
+  {
+    "id": 236700278,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.10193,
+    "lon": 76.985685
+  },
+  {
+    "id": 236700280,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.102045,
+    "lon": 76.986177
+  },
+  {
+    "id": 236700284,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.10184,
+    "lon": 76.985129
+  },
+  {
+    "id": 236700288,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.103352,
+    "lon": 76.984804
+  },
+  {
+    "id": 236700291,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.101773,
+    "lon": 76.986039
+  },
+  {
+    "id": 236700294,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.101953,
+    "lon": 76.98523
+  },
+  {
+    "id": 236700295,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.101999,
+    "lon": 76.984947
+  },
+  {
+    "id": 236700301,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.102814,
+    "lon": 76.984953
+  },
+  {
+    "id": 236700304,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.102282,
+    "lon": 76.984844
+  },
+  {
+    "id": 239031132,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.026801,
+    "lon": 76.943096
+  },
+  {
+    "id": 239155343,
+    "type": "way",
+    "category": "parks",
+    "name": "Ramalinga Nagar Park",
+    "lat": 11.029096,
+    "lon": 76.937782
+  },
+  {
+    "id": 239155344,
+    "type": "way",
+    "category": "parks",
+    "name": "Corporation Park",
+    "lat": 11.03102,
+    "lon": 76.939301
+  },
+  {
+    "id": 239155567,
+    "type": "way",
+    "category": "parks",
+    "name": "Ramalinga Nagar Childrens Park",
+    "lat": 11.029614,
+    "lon": 76.937338
+  },
+  {
+    "id": 329852731,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.007497,
+    "lon": 77.009139
+  },
+  {
+    "id": 377954688,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.980595,
+    "lon": 77.000198
+  },
+  {
+    "id": 442528853,
+    "type": "way",
+    "category": "parks",
+    "name": "Kamaraj Park",
+    "lat": 11.005807,
+    "lon": 76.986501
+  },
+  {
+    "id": 461698801,
+    "type": "way",
+    "category": "parks",
+    "name": "Bharathi Park",
+    "lat": 11.020646,
+    "lon": 76.947727
+  },
+  {
+    "id": 461711802,
+    "type": "way",
+    "category": "parks",
+    "name": "Children's Park",
+    "lat": 11.035624,
+    "lon": 76.929666
+  },
+  {
+    "id": 461712341,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.035889,
+    "lon": 76.929681
+  },
+  {
+    "id": 476862100,
+    "type": "way",
+    "category": "parks",
+    "name": "TNAU Botanical Garden",
+    "lat": 11.015996,
+    "lon": 76.931851
+  },
+  {
+    "id": 498988409,
+    "type": "way",
+    "category": "parks",
+    "name": "Boat House Park",
+    "lat": 10.998249,
+    "lon": 77.019594
+  },
+  {
+    "id": 571496251,
+    "type": "way",
+    "category": "parks",
+    "name": "corporation children park",
+    "lat": 11.082548,
+    "lon": 76.94428
+  },
+  {
+    "id": 588404847,
+    "type": "way",
+    "category": "parks",
+    "name": "Reliance Garden Municipal Park",
+    "lat": 11.00315,
+    "lon": 77.030878
+  },
+  {
+    "id": 588412148,
+    "type": "way",
+    "category": "parks",
+    "name": "Corporation Park",
+    "lat": 11.004332,
+    "lon": 76.958525
+  },
+  {
+    "id": 588414044,
+    "type": "way",
+    "category": "parks",
+    "name": "Nehru Park",
+    "lat": 10.997387,
+    "lon": 76.985649
+  },
+  {
+    "id": 592753260,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.985856,
+    "lon": 76.94601
+  },
+  {
+    "id": 592764467,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.010009,
+    "lon": 76.988607
+  },
+  {
+    "id": 592906257,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.006006,
+    "lon": 76.970212
+  },
+  {
+    "id": 593038867,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.000987,
+    "lon": 76.973435
+  },
+  {
+    "id": 593038870,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.001199,
+    "lon": 76.973577
+  },
+  {
+    "id": 593038872,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.000794,
+    "lon": 76.973453
+  },
+  {
+    "id": 593038874,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.001016,
+    "lon": 76.973176
+  },
+  {
+    "id": 594392961,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.999925,
+    "lon": 76.950067
+  },
+  {
+    "id": 659432937,
+    "type": "way",
+    "category": "parks",
+    "name": "vivekananda park",
+    "lat": 11.14537,
+    "lon": 76.944007
+  },
+  {
+    "id": 676200804,
+    "type": "way",
+    "category": "parks",
+    "name": "Childrens Park",
+    "lat": 10.954997,
+    "lon": 76.923545
+  },
+  {
+    "id": 678833312,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.997849,
+    "lon": 76.985191
+  },
+  {
+    "id": 751811802,
+    "type": "way",
+    "category": "parks",
+    "name": "Udaya Nagar Park",
+    "lat": 11.052013,
+    "lon": 77.005009
+  },
+  {
+    "id": 751811805,
+    "type": "way",
+    "category": "parks",
+    "name": "Nethaji Childrens Park",
+    "lat": 11.0523,
+    "lon": 77.010327
+  },
+  {
+    "id": 827849997,
+    "type": "way",
+    "category": "parks",
+    "name": "Kanchi Nagar Park",
+    "lat": 11.049741,
+    "lon": 77.018146
+  },
+  {
+    "id": 850442300,
+    "type": "way",
+    "category": "parks",
+    "name": "Temple Grounds",
+    "lat": 11.054451,
+    "lon": 77.017067
+  },
+  {
+    "id": 850443528,
+    "type": "way",
+    "category": "parks",
+    "name": "7th Bus Stop Government Park",
+    "lat": 11.052795,
+    "lon": 77.023031
+  },
+  {
+    "id": 850444295,
+    "type": "way",
+    "category": "parks",
+    "name": "Children's park",
+    "lat": 11.048506,
+    "lon": 77.018914
+  },
+  {
+    "id": 850453834,
+    "type": "way",
+    "category": "parks",
+    "name": "Vignesh nagar park",
+    "lat": 11.051275,
+    "lon": 77.01819
+  },
+  {
+    "id": 850454699,
+    "type": "way",
+    "category": "parks",
+    "name": "Vignesh nagar extension park",
+    "lat": 11.050944,
+    "lon": 77.019195
+  },
+  {
+    "id": 973218948,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.073592,
+    "lon": 76.979865
+  },
+  {
+    "id": 973219176,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.073522,
+    "lon": 76.979296
+  },
+  {
+    "id": 996072027,
+    "type": "way",
+    "category": "parks",
+    "name": "Crown City phase-2 Park",
+    "lat": 11.128458,
+    "lon": 77.028129
+  },
+  {
+    "id": 1096308918,
+    "type": "way",
+    "category": "parks",
+    "name": "Crowncity Phase-4 Park",
+    "lat": 11.129973,
+    "lon": 77.028035
+  },
+  {
+    "id": 1137265505,
+    "type": "way",
+    "category": "parks",
+    "name": "Walking park",
+    "lat": 11.054901,
+    "lon": 77.015914
+  },
+  {
+    "id": 1137265792,
+    "type": "way",
+    "category": "parks",
+    "name": "water tank",
+    "lat": 11.051291,
+    "lon": 77.015207
+  },
+  {
+    "id": 1137266216,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.05343,
+    "lon": 77.018905
+  },
+  {
+    "id": 1137269792,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.056425,
+    "lon": 77.016825
+  },
+  {
+    "id": 1137329401,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.047934,
+    "lon": 77.025115
+  },
+  {
+    "id": 1137330298,
+    "type": "way",
+    "category": "parks",
+    "name": "murugan nagar park",
+    "lat": 11.055995,
+    "lon": 77.024154
+  },
+  {
+    "id": 1137330405,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.056135,
+    "lon": 77.022089
+  },
+  {
+    "id": 1137332428,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.052249,
+    "lon": 77.019682
+  },
+  {
+    "id": 1137350672,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.052499,
+    "lon": 77.01898
+  },
+  {
+    "id": 1137354261,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.056978,
+    "lon": 77.01733
+  },
+  {
+    "id": 1137665031,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.054411,
+    "lon": 77.01955
+  },
+  {
+    "id": 1137714040,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.053629,
+    "lon": 77.018164
+  },
+  {
+    "id": 1137714227,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.053788,
+    "lon": 77.017923
+  },
+  {
+    "id": 1137776198,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.051524,
+    "lon": 77.015575
+  },
+  {
+    "id": 1137808814,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.041687,
+    "lon": 76.997652
+  },
+  {
+    "id": 1149210619,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.002643,
+    "lon": 77.030088
+  },
+  {
+    "id": 1153858248,
+    "type": "way",
+    "category": "parks",
+    "name": "Sai Tapovanam",
+    "lat": 11.047423,
+    "lon": 77.029548
+  },
+  {
+    "id": 1156133032,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.053912,
+    "lon": 77.017984
+  },
+  {
+    "id": 1156133529,
+    "type": "way",
+    "category": "parks",
+    "name": "Btype",
+    "lat": 11.053887,
+    "lon": 77.017633
+  },
+  {
+    "id": 1160866889,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.049571,
+    "lon": 77.015549
+  },
+  {
+    "id": 1160884998,
+    "type": "way",
+    "category": "parks",
+    "name": "NRI Garden park",
+    "lat": 11.048421,
+    "lon": 77.020652
+  },
+  {
+    "id": 1161018030,
+    "type": "way",
+    "category": "parks",
+    "name": "Udhaya nagar park",
+    "lat": 11.048727,
+    "lon": 77.01167
+  },
+  {
+    "id": 1161018305,
+    "type": "way",
+    "category": "parks",
+    "name": "Udhaya nagar resident association park",
+    "lat": 11.049838,
+    "lon": 77.012913
+  },
+  {
+    "id": 1161698306,
+    "type": "way",
+    "category": "parks",
+    "name": "Maharaja Nagar Park",
+    "lat": 11.054856,
+    "lon": 77.031351
+  },
+  {
+    "id": 1161702204,
+    "type": "way",
+    "category": "parks",
+    "name": "APJ Abdul Kalam Memorial Park",
+    "lat": 11.054006,
+    "lon": 77.028648
+  },
+  {
+    "id": 1162623830,
+    "type": "way",
+    "category": "parks",
+    "name": "Mounasamy nagar Park",
+    "lat": 11.05705,
+    "lon": 77.018602
+  },
+  {
+    "id": 1234537694,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.998975,
+    "lon": 76.974047
+  },
+  {
+    "id": 1234537695,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.998687,
+    "lon": 76.974435
+  },
+  {
+    "id": 1234537696,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.998669,
+    "lon": 76.974175
+  },
+  {
+    "id": 1234537703,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.999735,
+    "lon": 76.981652
+  },
+  {
+    "id": 1234546584,
+    "type": "way",
+    "category": "parks",
+    "name": "Vegitables Garden",
+    "lat": 10.998854,
+    "lon": 76.975378
+  },
+  {
+    "id": 1234546588,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 10.999372,
+    "lon": 76.975189
+  },
+  {
+    "id": 1249191629,
+    "type": "way",
+    "category": "parks",
+    "name": "Semozhi Poonga",
+    "lat": 11.010545,
+    "lon": 76.999383
+  },
+  {
+    "id": 1295947801,
+    "type": "way",
+    "category": "parks",
+    "name": "Children's Park",
+    "lat": 10.965076,
+    "lon": 76.947446
+  },
+  {
+    "id": 1303141677,
+    "type": "way",
+    "category": "parks",
+    "name": "Kids Park",
+    "lat": 11.141325,
+    "lon": 77.042688
+  },
+  {
+    "id": 1311700635,
+    "type": "way",
+    "category": "parks",
+    "name": "Tamil Semmozhi Memorial Park",
+    "lat": 10.994534,
+    "lon": 77.001357
+  },
+  {
+    "id": 1372030826,
+    "type": "way",
+    "category": "parks",
+    "name": "Unnamed park",
+    "lat": 11.022855,
+    "lon": 76.941655
+  },
+  {
+    "id": 1433722472,
+    "type": "way",
+    "category": "parks",
+    "name": "Herbal garden",
+    "lat": 11.032864,
+    "lon": 77.033652
+  },
+  {
+    "id": 1460006459,
+    "type": "way",
+    "category": "parks",
+    "name": "Valluvar Poonga",
+    "lat": 10.963235,
+    "lon": 76.97152
+  },
+  {
+    "id": 1486808704,
+    "type": "way",
+    "category": "parks",
+    "name": "Children park",
+    "lat": 11.068583,
+    "lon": 76.938337
+  }
+]

@@ -1,0 +1,85 @@
+issue_id,date,area,issue_type,severity,status,resolution_days
+C1001,2026-07-14,Gandhipuram,Sewage Overflow,Low,In Progress,
+C1002,2026-07-15,Ramanathapuram,Traffic Congestion,Medium,Resolved,3
+C1003,2026-07-15,Gandhipuram,Road Damage,Low,In Progress,
+C1004,2026-07-15,RS Puram,Traffic Congestion,Medium,Resolved,3
+C1005,2026-07-15,Gandhipuram,Streetlights,Medium,Resolved,7
+C1006,2026-07-15,Ramanathapuram,Sewage Overflow,Medium,Resolved,4
+C1007,2026-07-17,Town Hall,Road Damage,Medium,Resolved,5
+C1008,2026-07-17,Saibaba Colony,Water Supply,Medium,In Progress,
+C1009,2026-07-17,Gandhipuram,Waste Management,Medium,Resolved,4
+C1010,2026-07-17,Singanallur,Waste Management,Low,Resolved,1
+C1011,2026-07-17,Singanallur,Water Supply,Medium,Resolved,6
+C1012,2026-07-19,Saibaba Colony,Road Damage,Low,Resolved,2
+C1013,2026-07-20,Singanallur,Road Damage,Medium,Resolved,2
+C1014,2026-07-20,Gandhipuram,Streetlights,Low,Resolved,2
+C1015,2026-07-20,RS Puram,Waste Management,Low,Resolved,3
+C1016,2026-07-20,RS Puram,Traffic Congestion,Low,Resolved,1
+C1017,2026-07-21,Town Hall,Water Supply,Low,Resolved,3
+C1018,2026-07-21,Ukkadam,Traffic Congestion,Low,In Progress,
+C1019,2026-07-21,Saravanampatti,Sewage Overflow,Medium,Resolved,6
+C1020,2026-07-21,Ukkadam,Waste Management,Medium,Resolved,7
+C1021,2026-07-22,Singanallur,Waste Management,Low,Resolved,1
+C1022,2026-07-22,Gandhipuram,Waste Management,Medium,Resolved,5
+C1023,2026-07-22,Peelamedu,Road Damage,Medium,Resolved,4
+C1024,2026-07-22,Peelamedu,Traffic Congestion,High,Resolved,9
+C1025,2026-07-22,Ramanathapuram,Water Supply,Medium,Resolved,7
+C1026,2026-07-23,Ukkadam,Traffic Congestion,Low,Resolved,1
+C1027,2026-07-23,Singanallur,Streetlights,Medium,Resolved,5
+C1028,2026-07-23,Saibaba Colony,Streetlights,Low,In Progress,
+C1029,2026-07-23,Saravanampatti,Waste Management,Medium,In Progress,
+C1030,2026-07-24,Hopes College,Water Supply,Medium,Resolved,5
+C1031,2026-07-24,Gandhipuram,Traffic Congestion,Low,Resolved,1
+C1032,2026-07-24,Saravanampatti,Waste Management,Medium,Resolved,4
+C1033,2026-07-24,Gandhipuram,Waste Management,Medium,In Progress,
+C1034,2026-07-24,Ramanathapuram,Waste Management,Medium,Resolved,4
+C1035,2026-07-25,Hopes College,Waste Management,Low,Resolved,2
+C1036,2026-07-25,Ukkadam,Water Supply,Medium,Resolved,5
+C1037,2026-07-26,Saibaba Colony,Sewage Overflow,Medium,Resolved,1
+C1038,2026-07-26,Hopes College,Waste Management,High,Resolved,10
+C1039,2026-07-27,RS Puram,Road Damage,High,Resolved,11
+C1040,2026-07-28,RS Puram,Waste Management,Medium,Resolved,5
+C1041,2026-07-28,Ramanathapuram,Water Supply,Medium,In Progress,
+C1042,2026-07-28,Saravanampatti,Road Damage,Medium,Pending,
+C1043,2026-07-28,Peelamedu,Streetlights,High,In Progress,
+C1044,2026-07-29,RS Puram,Water Supply,Medium,Resolved,6
+C1045,2026-07-30,Saibaba Colony,Streetlights,Medium,Resolved,3
+C1046,2026-07-31,Gandhipuram,Water Supply,Low,In Progress,
+C1047,2026-07-31,Town Hall,Streetlights,Medium,Resolved,4
+C1048,2026-08-01,Ukkadam,Streetlights,Low,Resolved,3
+C1049,2026-08-01,Town Hall,Road Damage,Low,Resolved,1
+C1050,2026-08-01,Saibaba Colony,Traffic Congestion,Low,In Progress,
+C1051,2026-08-02,Gandhipuram,Waste Management,Medium,Resolved,9
+C1052,2026-08-02,Ukkadam,Water Supply,Low,In Progress,
+C1053,2026-08-02,Peelamedu,Water Supply,Medium,Resolved,7
+C1054,2026-08-02,Hopes College,Sewage Overflow,Low,Resolved,1
+C1055,2026-08-02,Hopes College,Water Supply,Low,In Progress,
+C1056,2026-08-03,Ramanathapuram,Sewage Overflow,Medium,In Progress,
+C1057,2026-08-03,Ramanathapuram,Streetlights,Medium,In Progress,
+C1058,2026-08-03,Saibaba Colony,Traffic Congestion,Low,Resolved,4
+C1059,2026-08-04,RS Puram,Streetlights,Low,Resolved,2
+C1060,2026-08-04,Singanallur,Traffic Congestion,Medium,Pending,
+C1061,2026-08-04,Singanallur,Road Damage,Medium,Resolved,3
+C1062,2026-08-04,Hopes College,Sewage Overflow,Low,Resolved,1
+C1063,2026-08-04,Ramanathapuram,Water Supply,Low,Resolved,1
+C1064,2026-08-05,Ramanathapuram,Traffic Congestion,Low,Resolved,2
+C1065,2026-08-05,Ramanathapuram,Traffic Congestion,Medium,Pending,
+C1066,2026-08-05,Ramanathapuram,Streetlights,Medium,Pending,
+C1067,2026-08-06,Ramanathapuram,Water Supply,Medium,Resolved,3
+C1068,2026-08-06,Singanallur,Streetlights,Medium,In Progress,
+C1069,2026-08-06,Singanallur,Water Supply,High,Resolved,8
+C1070,2026-08-06,Ukkadam,Traffic Congestion,Low,In Progress,
+C1071,2026-08-07,Hopes College,Sewage Overflow,Medium,In Progress,
+C1072,2026-08-07,Saibaba Colony,Water Supply,Low,In Progress,
+C1073,2026-08-07,Peelamedu,Sewage Overflow,Low,In Progress,
+C1074,2026-08-07,Saravanampatti,Sewage Overflow,Medium,In Progress,
+C1075,2026-08-08,Hopes College,Water Supply,Low,In Progress,
+C1076,2026-08-09,Gandhipuram,Streetlights,Low,In Progress,
+C1077,2026-08-09,Singanallur,Waste Management,High,Pending,
+C1078,2026-08-09,Gandhipuram,Water Supply,Medium,In Progress,
+C1079,2026-08-09,Peelamedu,Waste Management,Low,In Progress,
+C1080,2026-08-11,Singanallur,Traffic Congestion,Low,In Progress,
+C1081,2026-08-11,Hopes College,Road Damage,Medium,Pending,
+C1082,2026-08-11,Gandhipuram,Waste Management,Medium,In Progress,
+C1083,2026-08-12,RS Puram,Traffic Congestion,Low,Resolved,1
+C1084,2026-08-12,Peelamedu,Waste Management,Medium,Resolved,6

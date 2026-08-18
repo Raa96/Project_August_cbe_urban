@@ -1,0 +1,954 @@
+[
+  {
+    "id": 243727487,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.044921,
+    "lon": 76.947379
+  },
+  {
+    "id": 246761015,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.02847,
+    "lon": 76.951146
+  },
+  {
+    "id": 246761112,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.018895,
+    "lon": 76.960408
+  },
+  {
+    "id": 247051088,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.020785,
+    "lon": 76.970865
+  },
+  {
+    "id": 247051423,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.017103,
+    "lon": 76.968563
+  },
+  {
+    "id": 247051460,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.019937,
+    "lon": 76.95294
+  },
+  {
+    "id": 247051478,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Saibaba Temple Signal",
+    "lat": 11.026969,
+    "lon": 76.951202
+  },
+  {
+    "id": 247177669,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080194,
+    "lon": 76.941484
+  },
+  {
+    "id": 247428158,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.994366,
+    "lon": 76.967132
+  },
+  {
+    "id": 286958035,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.037983,
+    "lon": 77.037556
+  },
+  {
+    "id": 294963744,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.01301,
+    "lon": 76.986129
+  },
+  {
+    "id": 308450118,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.025392,
+    "lon": 77.013833
+  },
+  {
+    "id": 330041139,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.010869,
+    "lon": 76.954999
+  },
+  {
+    "id": 330658187,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.013981,
+    "lon": 76.980823
+  },
+  {
+    "id": 335620401,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.019549,
+    "lon": 76.959194
+  },
+  {
+    "id": 619724580,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.014739,
+    "lon": 76.967773
+  },
+  {
+    "id": 802057920,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.010117,
+    "lon": 76.950486
+  },
+  {
+    "id": 802102034,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.010941,
+    "lon": 76.957221
+  },
+  {
+    "id": 803667609,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.016805,
+    "lon": 76.977277
+  },
+  {
+    "id": 803667692,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.020958,
+    "lon": 76.970998
+  },
+  {
+    "id": 803667712,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.016951,
+    "lon": 76.968762
+  },
+  {
+    "id": 803667763,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.016793,
+    "lon": 76.977399
+  },
+  {
+    "id": 803667783,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Lakshmi Mills Junction",
+    "lat": 11.012932,
+    "lon": 76.986042
+  },
+  {
+    "id": 803667853,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.017062,
+    "lon": 76.968838
+  },
+  {
+    "id": 803667856,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.018972,
+    "lon": 76.960423
+  },
+  {
+    "id": 803684700,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.016704,
+    "lon": 76.977371
+  },
+  {
+    "id": 803684726,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.016714,
+    "lon": 76.977258
+  },
+  {
+    "id": 1423942628,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.028272,
+    "lon": 77.025105
+  },
+  {
+    "id": 1445281331,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Six Corner",
+    "lat": 11.022218,
+    "lon": 76.962674
+  },
+  {
+    "id": 1481226181,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.099051,
+    "lon": 76.938676
+  },
+  {
+    "id": 1481294778,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.074464,
+    "lon": 76.941966
+  },
+  {
+    "id": 1481570018,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.044568,
+    "lon": 76.985544
+  },
+  {
+    "id": 1481624668,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.046257,
+    "lon": 77.052032
+  },
+  {
+    "id": 1482521382,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.043897,
+    "lon": 77.046554
+  },
+  {
+    "id": 2444374105,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "SITRA Junction",
+    "lat": 11.038055,
+    "lon": 77.037416
+  },
+  {
+    "id": 2444384276,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.044006,
+    "lon": 77.046504
+  },
+  {
+    "id": 2444384765,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.046353,
+    "lon": 77.051988
+  },
+  {
+    "id": 2444388992,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.038147,
+    "lon": 77.037542
+  },
+  {
+    "id": 2747925516,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.014098,
+    "lon": 76.980801
+  },
+  {
+    "id": 2966170589,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.011018,
+    "lon": 76.957137
+  },
+  {
+    "id": 4077965609,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002619,
+    "lon": 76.968378
+  },
+  {
+    "id": 4077965612,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002658,
+    "lon": 76.968034
+  },
+  {
+    "id": 4086818982,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.025849,
+    "lon": 77.017646
+  },
+  {
+    "id": 4264471952,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080293,
+    "lon": 76.941484
+  },
+  {
+    "id": 4523506105,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.988872,
+    "lon": 76.966632
+  },
+  {
+    "id": 4523506107,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.989051,
+    "lon": 76.966778
+  },
+  {
+    "id": 5032006914,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.10182,
+    "lon": 76.994745
+  },
+  {
+    "id": 5563636693,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.02083,
+    "lon": 76.97114
+  },
+  {
+    "id": 5563636694,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.021011,
+    "lon": 76.97128
+  },
+  {
+    "id": 5656081668,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.037893,
+    "lon": 77.037437
+  },
+  {
+    "id": 5656518121,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.012946,
+    "lon": 76.986183
+  },
+  {
+    "id": 5656518123,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.012868,
+    "lon": 76.986092
+  },
+  {
+    "id": 5660381871,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080207,
+    "lon": 76.941569
+  },
+  {
+    "id": 5660381872,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080312,
+    "lon": 76.941568
+  },
+  {
+    "id": 5660409442,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.090067,
+    "lon": 76.938677
+  },
+  {
+    "id": 5660759948,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.010871,
+    "lon": 76.955122
+  },
+  {
+    "id": 6146876935,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080415,
+    "lon": 76.94156
+  },
+  {
+    "id": 6146876936,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080084,
+    "lon": 76.94157
+  },
+  {
+    "id": 6146876938,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.08008,
+    "lon": 76.941486
+  },
+  {
+    "id": 6146876939,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.080405,
+    "lon": 76.941472
+  },
+  {
+    "id": 6576841882,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.103271,
+    "lon": 76.93814
+  },
+  {
+    "id": 6576841883,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.103697,
+    "lon": 76.93817
+  },
+  {
+    "id": 6576846407,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.084109,
+    "lon": 76.939393
+  },
+  {
+    "id": 6576846408,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.084061,
+    "lon": 76.939321
+  },
+  {
+    "id": 6576863831,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.084633,
+    "lon": 76.938996
+  },
+  {
+    "id": 6576863832,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.08466,
+    "lon": 76.939068
+  },
+  {
+    "id": 6576886326,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.090067,
+    "lon": 76.938588
+  },
+  {
+    "id": 6576901641,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.099056,
+    "lon": 76.938761
+  },
+  {
+    "id": 6576906862,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.099578,
+    "lon": 76.938738
+  },
+  {
+    "id": 6576906863,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.099564,
+    "lon": 76.93865
+  },
+  {
+    "id": 6576928385,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.103277,
+    "lon": 76.938224
+  },
+  {
+    "id": 6576928386,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.103693,
+    "lon": 76.938087
+  },
+  {
+    "id": 6576994518,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.114935,
+    "lon": 76.935735
+  },
+  {
+    "id": 6576994519,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.114934,
+    "lon": 76.935645
+  },
+  {
+    "id": 6577318817,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.135008,
+    "lon": 76.938958
+  },
+  {
+    "id": 6577318818,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.134962,
+    "lon": 76.939037
+  },
+  {
+    "id": 6577356769,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.128681,
+    "lon": 76.935806
+  },
+  {
+    "id": 6577356770,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.128706,
+    "lon": 76.935728
+  },
+  {
+    "id": 6577371636,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.136157,
+    "lon": 76.939805
+  },
+  {
+    "id": 6577371637,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.136204,
+    "lon": 76.939733
+  },
+  {
+    "id": 6587813774,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.076693,
+    "lon": 76.941737
+  },
+  {
+    "id": 6587813775,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.076706,
+    "lon": 76.941863
+  },
+  {
+    "id": 6587817271,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.07454,
+    "lon": 76.942065
+  },
+  {
+    "id": 6587818164,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.123261,
+    "lon": 76.935257
+  },
+  {
+    "id": 6587818165,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.123266,
+    "lon": 76.935338
+  },
+  {
+    "id": 6587831705,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.074323,
+    "lon": 76.942085
+  },
+  {
+    "id": 6587831706,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.07433,
+    "lon": 76.941975
+  },
+  {
+    "id": 7114052129,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.074533,
+    "lon": 76.941956
+  },
+  {
+    "id": 8484949984,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.074954,
+    "lon": 76.955534
+  },
+  {
+    "id": 9322760955,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.999387,
+    "lon": 76.980772
+  },
+  {
+    "id": 9931632709,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.074083,
+    "lon": 76.949892
+  },
+  {
+    "id": 10784208428,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.007498,
+    "lon": 77.070634
+  },
+  {
+    "id": 10784208429,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.007678,
+    "lon": 77.070634
+  },
+  {
+    "id": 10784208430,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.007393,
+    "lon": 77.070315
+  },
+  {
+    "id": 10784208431,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.007114,
+    "lon": 77.070232
+  },
+  {
+    "id": 11458945235,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.000911,
+    "lon": 76.973669
+  },
+  {
+    "id": 11458945236,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002528,
+    "lon": 76.974706
+  },
+  {
+    "id": 11458945237,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.00288,
+    "lon": 76.975906
+  },
+  {
+    "id": 11458945238,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002958,
+    "lon": 76.9763
+  },
+  {
+    "id": 11458945239,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002972,
+    "lon": 76.976367
+  },
+  {
+    "id": 11458945240,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.003302,
+    "lon": 76.978037
+  },
+  {
+    "id": 11458945241,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.003461,
+    "lon": 76.978976
+  },
+  {
+    "id": 11458945242,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.000178,
+    "lon": 76.981755
+  },
+  {
+    "id": 11458945243,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002632,
+    "lon": 76.981967
+  },
+  {
+    "id": 11458945244,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.001718,
+    "lon": 76.982259
+  },
+  {
+    "id": 12241205041,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.005968,
+    "lon": 76.951207
+  },
+  {
+    "id": 12241205042,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.005492,
+    "lon": 76.951288
+  },
+  {
+    "id": 12375134400,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.002233,
+    "lon": 76.982129
+  },
+  {
+    "id": 12375134406,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.999228,
+    "lon": 76.980032
+  },
+  {
+    "id": 12381676574,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.998692,
+    "lon": 76.976812
+  },
+  {
+    "id": 12381676585,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.00363,
+    "lon": 76.980011
+  },
+  {
+    "id": 12381676593,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.003651,
+    "lon": 76.980266
+  },
+  {
+    "id": 12917445862,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.989106,
+    "lon": 76.960875
+  },
+  {
+    "id": 12917445863,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.989283,
+    "lon": 76.961332
+  },
+  {
+    "id": 12917445873,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 10.989351,
+    "lon": 76.961034
+  },
+  {
+    "id": 12968892294,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.009808,
+    "lon": 77.08016
+  },
+  {
+    "id": 12968892295,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.009998,
+    "lon": 77.080148
+  },
+  {
+    "id": 12968892296,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Unnamed traffic_node",
+    "lat": 11.009996,
+    "lon": 77.079938
+  },
+  {
+    "id": 14032184454,
+    "type": "node",
+    "category": "traffic_nodes",
+    "name": "Saibaba Temple Signal",
+    "lat": 11.026992,
+    "lon": 76.951414
+  }
+]
